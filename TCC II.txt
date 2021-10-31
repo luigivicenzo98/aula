@@ -1,0 +1,555 @@
+  UNIVERSIDADE PRESBITERIANA MACKENZIE
+   CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  ECONOMIA COMPARTILHADA: A RUPTURA DOS PADRÕES DE CONSUMO DA MOBILIDADE PAULISTANA.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Divaine Laís Müller
+   Luigi Vicenzo Coló
+   Luiz Felipe Gomes Ribeiro
+   Vitória de Oliveira Barbosa
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   SÃO PAULO – SP
+   2019
+   Divaine Laís Müller
+   Luigi Vicenzo Coló
+   Luiz Felipe Gomes Ribeiro
+   Vitória de Oliveira Barbosa
+   
+   
+   
+   
+   
+   
+   ECONOMIA COMPARTILHADA: A RUPTURA DOS PADRÕES DE CONSUMO DA MOBILIDADE PAULISTANA
+   
+   
+   
+   
+   
+Trabalho de conclusão de curso apresentado ao Centro de Ciências Sociais e Aplicadas, da Universidade Presbiteriana Mackenzie, como requisito para o recebimento do Bacharel em Administração.
+   
+Orientador: Élcio Ferreira
+   
+   
+   
+   
+
+   
+
+   
+   
+   SÃO PAULO – SP
+   2019
+   
+   RESUMO
+Este trabalho tem como objetivo se aprofundar nas mudanças do padrão de consumo voltado à mobilidade do público residente na região Metropolitana de São Paulo e para tanto, faz-se necessário identificar os padrões de consumo deste público no que tange à mobilidade; apontar os impactos econômicos e sociais que a empresas de mobilidade compartilhada exercem no ambiente em que atuam; e verificar as estratégias de resposta das empresas de mobilidade tradicionais do mercado. Estes objetivos foram estruturados, e analisados sobre a ótica de três blocos principais: primeiramente realizou-se pesquisas sobre o tema mobilidade, economia compartilhada e seus impactos. Em seguida, efetuou-se questionário com uma parcela do público-alvo para que fosse levantada suas características de consumo. Por fim, sucedeu-se entrevistas com profissionais e especialistas do segmento, para consolidar o conhecimento adquirido até então, e visualizar a questão mobilidade compartilhada sob suas perspectivas. Após as devidas análises, consubstanciou-se que no âmbito da mobilidade, não há segmentação por características socioeconômicas. Os principais atributos que representam o perfil da população residente da região Metropolitana de São Paulo são a finalidade do deslocamento e a percepção do usuário sobre o modal utilizado. Ademais, notou-se que os impactos exercidos por este novo modelo de mobilidade abrangem mais de uma esfera da sociedade. Vê-se resultados positivos, quando analisado do ponto de vista ambiental/ecológico, pois modos de deslocamento como bicicletas/patinetes são não emissores de poluentes. Além disso, o fato de um usuário deixar de utilizar seu carro, para utilizar um veículo por aplicativo, (Uber, 99, Lady Driver, Cabify), resultam em veículos a menos circulando na cidade, contribuindo também na redução da emissão de gases poluentes além da melhoria no tráfego. Em contrapartida, este efeito é reverso, quando um usuário deixar de utilizar transporte público para aderir a esses mesmos veículos de aplicativo. Na esfera econômica, notam-se efeitos positivos na manutenção da economia imediata, pois permite que os motoristas, por exemplo, se mantenham economicamente ativos dada uma situação de desemprego. Contudo, as condições as quais se submetem, são distantes das que teriam numa situação de emprego formal, abrindo mão de direitos trabalhistas para que consigam obter renda. No ambiente social, percebe-se ganhos substanciais. Estes modelos de mobilidade compartilhada tiveram adesão por parte da população, e em casos como os da micromobilidade, contribuem para a qualidade de vida por meio da prática de atividades físicas. Ao contrário do que se vê com os motoristas, para os usuários há um valor agregado perceptível. Por fim, mesmo com os efeitos positivos sobre o ambiente, e da adesão por parte do público estudado, não se percebe uma ruptura no consumo da mobilidade. É um princípio embrionário, que está aos poucos evoluindo, mas que ainda não representa parcela considerável dos hábitos de consumo do público residente na região Metropolitana de São Paulo.
+
+Palavras-chaves: Economia Compartilhada. Mobilidade. Micromobilidade. Veículos por Aplicativo. Região Metropolitana de São Paulo. Padrão de Consumo.
+   
+   ABSTRACT
+This academic paper has the objective to deepen into the change of the consumption pattern focused on mobility from the residents of the metropolitan area of São Paulo and, to do so, it is necessary to identify the consumption pattern of the mobility segment; identify the economic and social impacts that the sharing mobility companies perform on their branch of activity; and verify the response strategies from the traditional mobility companies of the segment. These objectives were structured and analyzed by three main groups:  first there was the conduction of the researches about mobility, sharing economy and its impacts. Subsequently, was the application of a questionnaire to the target audience to collect their consumption characteristics. Lastly, the interviews with professionals and experts from the sector were executed to consolidate the acquired knowledge so far and visualize the sharing mobility under their perspectives. After the proper analysis, it was substantiated that, in the mobility scope, there is no segmentation by socioeconomic features. The main attributes that represent the profile of the metropolitan area are the displacement purpose and their perception regarding the selected transport modal. Furthermore, it was noticed that the impacts brought by this new mobility model cover more than one field of society. There are positive results when reviewed by the environmental/ecological point of view, since the displacement methods such as bicycles and scooters are non-polluting. In addition, the fact that a user chose not to drive its car to use an app instead (Uber, 99, Lady Driver, Cabify) results in one less vehicle circulating on the city, contributing also to the decrease of the emission of polluting gases and the traffic improvement. On the other hand, this has a reverse effect once the user stop using the public transportation to join the app service. For the economic sphere, some positive effects were noticed on the maintenance of the short-sighted economy, as it allows the drivers to, for an example, maintain themselves economically active due to the unemployment situation. However, the conditions that they are submitted to are distant from the ones presented on a formal type of job, giving up the labor rights to obtain any income. As for the social environment, there are substantial gains. The population joined these collaborative consumption models and, as for cases like the micro mobility, contribute to the quality of living by means of physical activities. Opposite to what is noted with the drivers, the users have a perceptible added value. To conclude, even though there are positive effects for the environment and adherence by the studied public, there is no acknowledged disruption on the mobility expenditure. It is an embryonic movement that is evolving gradually, but does not represent yet a significant portion of the São Paulo metropolitan region inhabitants’ expenditure habits.
+Keywords: Sharing Economy. Mobility. Micro Mobility. Vehicle Sharing. São Paulo’s Metropolitan Region. Consumption Habits.
+1. INTRODUÇÃO
+      A mobilidade urbana é hoje questão fundamental em todo grande centro urbano. Em pleno século XXI, as pessoas estão cada vez mais deixando sua zona de conforto e se deslocando para locais mais distantes seja por trabalho, educação ou até mesmo para encontrar amigos e familiares. Em sentido contrário a essa expansão de interesses dos indivíduos, os congestionamentos estão mais longos e frequentes e os custos intrínsecos à mobilidade estão cada vez mais altos. Entre eles destacam-se, dentro dos financeiramente mensuráveis, o preço do combustível e a tarifa do transporte público e, para os não financeiramente mensuráveis, tempo e qualidade de vida.
+      As alternativas previstas até então consistiam em transporte público - como é o caso dos trens, metrôs e ônibus - e transporte privado que se dá por meio de veículo próprio. O primeiro apresenta déficits como falta de conforto, superlotação de usuários, altas tarifas e serviços de baixa qualidade. Por outro lado, os veículos próprios requerem gastos com combustível, seguro, impostos, manutenção, além do risco diário ao qual o usuário se expõe toda vez que o utiliza.
+      Como pontos positivos, o transporte público muitas vezes sai menos caro, removendo diversos custos atrelados ao usuário, além do menor risco de acidentes. Já o veículo próprio apresenta a comodidade e o conforto, também permitindo ao usuário a flexibilidade de se deslocar quando bem entender.
+      Além do mais, o crescimento populacional faz com que as cidades se expandam constantemente, alocando a população cada vez mais distante dos grandes centros. Contudo, muitas das oportunidades de emprego, educação e saúde, bem como os membros de um grupo social, estão posicionados em locais distantes que tendem a se distanciar ainda mais conforme a população se amplia.
+      À vista disso, a quantidade de usuários de meios de transporte, de todos os tipos, bem como a quantidade de viagens, a frequência com que ocorrem e o tempo que estas duram, aumentam e fomentam um ciclo de transporte no qual perde-se horas e reduz a qualidade de vida da população com serviços que por muitas vezes são de baixa qualidade e que, com exceção dos transportes ferroviários e metroviários, ocasionam quilômetros de congestionamento.
+      Neste contexto, com alternativas de mobilidade não tão desejadas, busca-se um meio de deslocamento que se aproveite dos principais benefícios de cada modalidade de transporte e que minimamente atenue suas deficiências.
+      É desta forma que se estabelece o conceito de economia compartilhada, delimitada pela mobilidade e meios de transporte. Empresas nas quais os usuários utilizam de veículos de terceiros, conduzidos por terceiros, com baixo custo e que atenda às demandas esporádicas ou não.
+      Desta forma, é necessário entender: como a ascensão dos modelos de economia compartilhada estimula a ruptura dos padrões de consumo vinculados à mobilidade das pessoas na região metropolitana de São Paulo?
+1.1 OBJETIVO GERAL
+      Identificar como a ascensão dos modelos de economia compartilhada estimula a ruptura dos padrões de consumo vinculados à mobilidade das pessoas na região metropolitana de São Paulo.
+1.2 OBJETIVOS ESPECÍFICOS
+      Identificar os padrões de consumo compartilhado dos residentes da região metropolitana de São Paulo, com relação à mobilidade urbana; apontar os principais impactos econômicos e sociais das empresas que utilizam a economia compartilhada em mobilidade urbana; identificar as estratégias de resposta das empresas tradicionais de mobilidade urbana à economia compartilhada.
+2. REFERENCIAL TEÓRICO
+2.1 A ECONOMIA COMPARTILHADA
+      Em meio a um crescimento desmesurado das empresas para a produção em massa no início do século XX, o consumo exacerbado foi se consolidando. Devido a isso, as corporações identificaram uma oportunidade de aumentar as vendas, tornando a durabilidade dos produtos ainda mais finita, desestimulando a continuidade de uso destes – sendo por características técnicas quanto à moda a ser ditada para aquela época (OLIVEIRA DA SILVA, 2012). Estes fatores tornaram-se cruciais para a concentração de renda, aumento da exploração de recursos não-renováveis, aceleração da rotatividade de produtos e, por consequência, acúmulo desenfreado de bens. A posse tornou-se, então, símbolo de status e caracterização do poder para o público mundial. 
+      As empresas não teriam tanto sucesso na empreitada de conglomeração de dinheiro se não houvesse um público para este feito. Para isso, foi necessário desempenhar algo que acompanhasse o aumento da população. Este crescimento populacional mundial foi causado, entre muitos fatores, pela migração para os centros econômicos (desenvolvidos a partir da criação de capital) e o crescimento vegetativo (relação entre as taxas de mortalidade e natalidade). Além disso, o incremento do patrimônio familiar, associado a estes fatores, contribuiu para este aumento, também relacionado à disponibilidade de melhores condições de saneamento básico e descobertas de vacinas e antibióticos (FONTANA, 2015). 
+      Mediante aos acontecimentos populacionais, o intercâmbio de culturas, pessoas e posses teve um avanço significante: tornou-se um fator global. Em razão disto, o termo globalização tomou notoriedade. Esta conhecida expressão pode ser definida como “uma mudança ou transformação na escala da organização social que liga comunidades distantes e amplia o alcance das relações de poder nas grandes regiões e continentes do mundo” (HELD; MCGREW, 2001, p.13). A globalização, associada à facilidade de obtenção de recursos, fontes de manufatura e pessoas, viabilizou a maximização da produção – conceito abordado por Frederick Taylor, em que havia a acentuação da força de trabalho para potencializar os limites de fabricação de bens (SILVA; MONTAGNER; ROSELINO, 2006). 
+      Aos moldes do cenário recente, que compreende uma população de 7,7 bilhões de habitantes em 2019, a estimativa de expansão deste número é o alcance de 8,3 bilhões em 2030 e, 8,9 bilhões em 2050 – a estabilização populacional deve ser alcançada em 9 bilhões (UNITED NATIONS, 2017). Tratando de ambientes citadinos, a população urbana, no mundo, teve um avanço significante nas últimas décadas. De acordo com a Organização das Nações Unidas, em um estudo feito em 2018, na década de 50, enquanto esta parcela da sociedade era representada por 751 milhões de habitantes, em 2018, houve um crescimento que a fez chegar à marca de 4,2 bilhões de habitantes. Em relação à ocupação espacial, 55% da população mundial vive em áreas urbanas, com uma projeção de estimada de 68% em 2050.
+      Para equivaler ao crescimento populacional, não haveria dúvidas de que o lixo produzido seria de uma proporção equivalente. O lixo é definido, por Ribeiro e Mendes (2018), como os tipos existentes de resíduos sólidos e detritos que são produzidos diariamente pela sociedade, sendo relativas para cada cultura em que se está inserida. Ainda de acordo com Ribeiro e Mendes (2018), apenas no ano de 2016 foram criados por volta de 78,3 milhões de toneladas de resíduos sólidos no Brasil, voltados somente para os centros urbanos. 
+      Diante disso, é permissível relacionar que o aumento populacional tornou a geração de lixo exponencialmente maior – para os centros urbanos, o número é consideravelmente alto. Por este motivo, a sociedade buscou formas e alternativas de controlar as consequências da globalização e migração para as grandes metrópoles. Caso não houvesse alguma forma de controle, ao alcançar a marca de 9,6 bilhões de habitantes em 2050, precisaríamos de quase três planetas Terra para manter o padrão atual de consumo da população global dos recursos naturais presentes (BANCO MUNDIAL, 2016).
+      A alternativa apresentada pelo mercado foi a economia compartilhada (ou consumo colaborativo). Segundo Sundararajan (2016), esta modalidade de negócios possui cinco características, sendo elas: massivamente baseada no mercado (o compartilhamento de bens e elaboração de serviços criados por esta resulta em atividades econômicas de grandes níveis); grande impacto no capital (a utilização deste meio propicia resultados em ativos, habilidades e até tempo e dinheiro); redes fomentadas pelo público e não por sistemas hierárquicos (a mão-de-obra e os recursos necessários são providos pelo público geral, ao contrário das organizações tradicionais); relações pessoais e profissionais com pouca diferenciação (os bens ou serviços apresentados são de fontes pessoais e caracterizadas por relações peer-to-peer, como o fornecimento de caronas e locação de imóveis próprios); e vínculos empregatícios indefinidos entre trabalhos de tempo integral e casuais – como  freelancer -, assim como entre trabalho e lazer (os contratos para trabalhadores diretos das corporações são descritos por cláusulas e cumprimentos vitais para cada colaborador, transmitindo um compromisso promovido pela dependência e pouco espaço para empreendedorismo). 
+      Resumidamente, o que é promovido pelo consumo colaborativo é representado por uma linha tênue entre os bens e/ou serviços concedidos pelo capitalismo tradicional e a formulação de uma economia baseada somente no compartilhamento destes como forma única de geração de renda: esta proposta foi idealizada para suprir e preencher o anseio da sociedade de instituir um consumo consciente que auxiliará na diminuição da geração de resíduos e como estes são tratados. 
+      Tratando-se de território nacional, 89% dos brasileiros que usufruíram de alguma modalidade do consumo colaborativo tiveram uma experiência positiva, contra somente 2% de índice de insatisfação, em conformidade com uma pesquisa feita pela Confederação Nacional de Dirigentes Lojistas (CNDL) e pelo Serviço de Proteção ao Crédito (SPC Brasil), em 2018. Apresentando ainda dados desta pesquisa, nove em cada dez consumidores brasileiros percebem esta modalidade como algo que está cada vez mais vigente nas vidas destes. 
+      Nas diversas facetas presentes na economia compartilhada, a mobilidade urbana é um dos destaques. Apresentado por Rifkin (2014), a propriedade privada é um dos símbolos da sociedade capitalista em que vivemos atualmente. Dentre os exemplos que podem ser reconhecidos por esta, o automóvel é o carimbo que firma tal símbolo. Em diversas nações, é mais comum a posse de um carro do que de uma casa. Este bem é a definição física da autonomia e liberdade que o sistema econômico capitalista fomenta. Para a geração da internet e redes sociais, a liberdade é determinada pela partilha da otimização da vida: proporcionar esta sensação a outros. A pesquisa demonstrada pelo mesmo autor identifica também que, para estes mesmos indivíduos com idades entre 18 e 24 anos, 46% preferiria ter acesso à internet em vez de possuir um carro. Em continuidade à pesquisa apresentada anteriormente, realizada pela CNDL e pelo SPC Brasil, as utilizações mais frequentes são de caronas, constituídas por 41% dos dados totais e, vista como em ascensão, o compartilhamento de bicicletas representa 21%. 
+2.2 PERFIL DO CONSUMIDOR NA MOBILIDADE URBANA DA REGIÃO METROPOLITANA DE SÃO PAULO
+      O smartphone se tornou um objeto extremamente importante para o ser humano. Por meio dele, é possível realizar as mais diversas atividades. À respeito deste tema, Coutinho (2014, p.16) comenta que eles são “Um verdadeiro portal que conecta um indivíduo à uma rede de outros indivíduos, e não somente isso, mas a notícias, canais de TV, vídeos, músicas, etc”.
+      Segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE), em 2017, no Brasil, 93,2% dos domicílios possuíam pelo menos um telefone móvel celular, aumento de 0,6 pontos percentuais quando comparado ao ano anterior. A região sudeste é a terceira nesse aspecto com 94,4%, ficando atrás apenas das regiões centro oeste e sul, 96,9% e 95,4% respectivamente. De acordo com Estadão Conteúdo (2019), em pesquisa realizada pela Fundação Getúlio Vargas de São Paulo (FGV-SP), atualmente há 230 milhões de smartphones no país, mostrando que existe mais de um smartphone por pessoa, visto que o Brasil possui 209,3 milhões de habitantes. A penetração no mercado desse tipo de dispositivo aumentou, conforme dados da pesquisa realizada pela Deloitte (2018), esse valor passou de 77% em 2015 para 92% em 2018, sendo que 97% dos entrevistados utilizam os dispositivos diariamente. Superior ao notebook, segundo aparelho neste quesito com apenas 70% de participação.
+      Segundo Castells (2003), a internet é um novo modo de comunicação. Diferente das demais, possui uma linguagem e uma lógica própria, sendo utilizada de diversas formas pelos usuários. Castells (2003) conclui que a comunicação na internet está associada a livre expressão dos usuários, sendo uma fonte aberta e livre de divulgação, possibilitando a criação de uma rede compartilhada onde há interação entre os utilizadores. Ainda é aproveitada pelas empresas como forma de disseminação de produtos e serviços e contato com seus clientes.
+      A população está vivendo a era digital, resultando em uma mudança de comportamento do consumidor diante das novas tecnologias disponíveis. Para Kotler, Kartajaya e Setiawan (2017), foi atingido o Marketing 4.0, evolução do Marketing 3.0, no qual as estratégias de marketing estão totalmente voltadas para o ser humano e não somente aos produtos e consumidores. Diante disso, “o marketing deve se adaptar à natureza mutável dos caminhos do consumidor na economia digital” (KOTLER; KARTAJAYA; SETIAWAN, 2017 p. 54).
+      Devido a este fenômeno, os consumidores deixaram de ser apenas compradores e passaram a ter influência na decisão de compra de outros indivíduos. Utilizam as mídias sociais para expressar suas opiniões referente à algum produto ou serviço consumido. A respeito disso, os autores comentam que: “Os clientes adaptam mais às opiniões sociais. Na verdade, a maioria das decisões de compra pessoais serão essencialmente decisões sociais. Os consumidores comunicam-se entre si e conversam sobre marcas e empresas” (KOTLER; KARTAJAYA; SETIAWAN, 2017 p. 55).
+2.3 MOBILIDADE COMPARTILHADA
+      O público paulista está buscando meios alternativos de locomoção. Paralelo a isso, observa-se a crescente oferta de meios não-convencionais por parte das empresas deste setor. Surgiram, então, aplicativos de transporte: particular (como Uber, 99, Cabify, entre outros) e as de aluguel de bicicletas e patinetes elétricos, como a Yellow e Grin. Por meio destes, é possível que o consumidor consiga chegar ao seu destino de uma forma mais prática, confortável e muitas vezes mais rápida, quando comparado ao transporte público, fretados, etc. 
+      Uma pesquisa realizada pela Ibope Inteligência, Rede Nossa São Paulo e Mob Cidades (2018), mostrou que, no ano de 2017, apenas 2% dos paulistanos utilizavam o meio de transporte particular por aplicativo como, Uber, 99 POP, Cabify, entre outros, enquanto que, no ano de 2018, 5% desse público já os escolhiam como principal meio de transporte – o que representa um aumento de 150%. Além disso, esta revelou que 41% dos entrevistados com certeza deixariam de usar carros e 32% provavelmente o fariam, totalizando 73% do público que teria a intenção de substituir seu método de locomoção. O perfil deste tipo de consumidor é, em maioria, adultos na faixa de 25 a 44 anos, pertencentes às classes B e C, da região norte e leste da cidade de São Paulo.
+      O número de ciclistas também aumentou, segundo esta. O público passou de 1%, em 2017, para 2% no ano de 2018. Dentre os que nunca usam bicicleta, 30% passariam a usufruir se houvesse mais segurança e 18% se houvessem mais ciclovias pela cidade. O perfil destes é, em sua maioria, adultos, na faixa 35 a 44 anos, pertencentes às classes C e D, da região centro e oeste da cidade de São Paulo. É significativo ressaltar que a empresa Yellow iniciou as operações em agosto de 2018, portanto, há uma possibilidade de aumento destes indicadores, devido à nova capacidade de bicicletas disponibilizadas no decorrer dos meses, passando de 500 para uma projeção de 100 mil bicicletas até o final de 2019 (ESTADÃO CONTEÚDO, 2018).
+      Paulo e Lopes (2018) apontam que de acordo com a maior pesquisa de mobilidade urbana da região metropolitana de São Paulo, nos últimos dez anos as viagens feitas de trem e metrô subiram 55% e 53%, respectivamente, enquanto o modal ônibus diminuiu 5%. A pesquisa feita nos 39 municípios envolveu 2.400 pessoas e durou 11 meses.
+      Segundo Salomão (2019), em matéria publicada pela revista Exame, o Itaú BBA comenta que: “a tendência de carros compartilhados está aqui para ficar e, combinada com outras tendências, [...] estão ajudando a transformar a indústria automotiva”.
+      O deslocamento entre regiões é desde a antiguidade um desafio para as sociedades. Por anos, a forma de se transportar coisas e pessoas, bem como o tempo e o esforço gasto foram questões desafiadoras. Conceitualmente, transporte é o “ato ou efeito de transportar”, segundo o dicionário.
+      No início o transporte era realizado por meio de veículos de tração animal, como carroças. Por volta de 1804, a primeira locomotiva à vapor fora criada, permitindo o deslocamento mais rápido de grandes distâncias com maiores quantidades de carga e pessoas. Posteriormente, com o avanço das indústrias, criou-se o bonde que era movido à energia elétrica e percorria principalmente os centros urbanos. Esse foi, provavelmente, o início da matriz de transportes que temos hoje em dia. Em seguida, com a criação de motores à combustão, surgiram os carros e os ônibus que são atualmente a forma predominante de se deslocar (REDAÇÃO, 2019).
+      Quando aplicado à sociedade, o transporte tem sido problema complexo dos governos. O que antes tratava-se pura e simplesmente do deslocamento de coisas e pessoas, hoje requer preocupação com a qualidade do transporte, valor da tarifa, tempo, alcance, e principalmente, condições sociais nas quais o indivíduo estiver inserido. Eis que surgiu o conceito de Mobilidade, que por sua vez está atrelada a fatores mais complexos. Mobilidade, segundo o Plano de Mobilidade de São Paulo (PlanMob/SP 2015) é: “Um atributo do indivíduo e expressa sua capacidade de se deslocar pelo território da cidade. Essa capacidade varia em função de sua condição social, ou seja, um indivíduo terá maior ou menor mobilidade quanto maior ou menor for sua renda” (2015, p. 10).
+      Ainda segundo o PlanMob/SP 2015, pessoas ou famílias que possuírem maior renda tendem a realizar maior quantidade de viagens.
+      Portanto, entende-se que transporte e mobilidade não são sinônimos, atuando de forma complementar, de modo que o transporte pode expressar a capacidade de deslocamento de um indivíduo. A Mobilidade Urbana, por sua vez, é uma característica das cidades e reconhece diferentes atributos de um centro urbano que intensificam a eficiência e eficácia da mobilidade. Segundo o PlanMob/SP 2015, são considerados na metrificação da Mobilidade Urbana fatores como:
+
+“presença de transporte de alta capacidade, de acessibilidade universal nos passeios e edificações, de prioridade ao transporte coletivo no sistema viário, de terminais de transporte intermodais, da rede de transporte coletivo por ônibus, de acessibilidade universal na frota de coletivos, de uma rede cicloviária, da existência de bicicletários e paraciclos, de uma boa legibilidade dos sistemas de orientação, de uma comunicação eficaz com os usuários, da modicidade tarifária e de uma logística eficiente no transporte de carga.” (2015, p. 10)
+
+      Com o passar dos anos e a expansão populacional, as cidades brasileiras sofreram significativo aumento de tamanho e viu-se a descentralização da economia dos grandes centros para as áreas marginais. Novos focos econômicos com ricas oportunidades de empregos surgiram em áreas mais distantes intensificando a quantidade de deslocamentos pelas cidades. Seja por razões econômicas ou sociais, diariamente a população se desloca de uma região para outra, seja a pé ou em veículos. Segundo Vasconcellos (2011), países com a economia em estado de desenvolvimento, como é o caso do Brasil, apresentam a média de 2 viagens por indivíduo por dia (considerando os que se deslocam e os que não se deslocam), que é metade da média de viagens realizadas por indivíduos em países desenvolvidos. Considerando-se uma cidade com 2,5 milhões de habitantes, são realizadas em média 5 milhões de viagens por dia.
+      Outras consequências desse crescimento expansivo da população, foram a queda na qualidade do serviço e o aumento do valor da tarifa. Aliados, esses fatores implicam em aspectos negativos para a sociedade, meio ambiente e economia. A qualidade desses deslocamentos varia com o nível de conforto apresentado e acarretam o consumo de recursos como tempo, espaço, capital e energia, além das consequências que refletem no ambiente, como trânsito, poluição do meio ambiente, acidente nas vias, e etc.
+      Foi por volta de de 1950 que o processo de urbanização se tornou mais forte e, com ele, a utilização de transportes públicos. A cidade do Rio de Janeiro, a exemplo de outras cidades, mudou seu modelo de transporte de caráter essencialmente público, para um misto de público e privado. O avanço econômico do país ampliou o poder aquisitivo dos cidadãos fazendo com que mais pessoas pudessem adquirir carros. Dentre os fatores que influenciaram o crescimento da frota de veículos particulares, além do aumento do poder aquisitivo supracitado, estão a qualidade do transporte público, o valor da tarifa, comodidade e, principalmente, a redução significativa do IPI na compra de automóveis anunciada pelo governo brasileiro em 2008, bem como a redução nas taxas reais, o que viabilizou a compra de veículos a prazo.
+      Não por coincidência, já em 2005 o transporte privado sozinho era responsável por quase metade das viagens motorizadas em áreas metropolitanas (VASCONSELLOS; CARVALHO; PEREIRA, 2011).
+      Considerando o aumento da frota de veículos particulares, e que estes, por sua vez, transportam menos pessoas, é correto afirmar que mais espaço vem sendo ocupado para transportar o mesmo número de pessoas que um ônibus transportaria, agravando o problema da mobilidade, por exemplo. Como consequência para as cidades, principalmente as grandes metrópoles, observa-se aumento no trânsito, no tempo dos deslocamentos, na poluição emitida por meio do processo de combustão dos veículos (emissão de gás carbônico), na poluição sonora, além de outras implicações indiretas como dificultar o acesso da população a serviços como educação, saúde e até mesmo trabalho, aumento da tarifa de transporte de mercadorias (frete), redução dos investimentos privados e aumento na quantidade de acidentes causando morte ou danos severos à saúde. Por ano, mais de 30 mil indivíduos morrem por acidentes de trânsito sendo mais de 20% jovens (WAISELFISZ, 2011).
+      
+      Segundo Vieira (2013):
+       
+“Na última década, com a redução do IPI para a compra de automóveis e a decisão de zerar a Contribuição de Intervenção no Domínio Econômico (Cide), o governo investiu mais de R$32 bilhões no transporte individual. Recursos que dariam para construir 1500 quilômetros de corredores de ônibus ou 150 quilômetros de metrô. Assim, multiplicaram os engarrafamentos, a poluição do ar, as emissões de CO2 e os acidentes de trânsito”. (VIEIRA, 2013, p.1)
+Figura 1 - Ciclo Vicioso da perda de competitividade do transporte urbano.
+Fonte: Transporte e mobilidade urbana (2011).
+
+      Em resumo, fatores como o processo de urbanização, a ascensão das classes mais pobres, o crescimento natural da população e o ciclo vicioso de redução de demanda, tendem a agravar ainda mais os problemas já mencionados na mobilidade urbana.
+2.4 ASPECTOS ECONÔMICOS E SOCIAIS
+      Conforme mencionado por Jalloh (2019), entre as principais vantagens das novas formas de mobilidade urbana, destacam-se: conveniência e a economia, preço competitivo, serviço profissional e maior segurança para motoristas. Porém, destaca também, algumas desvantagens. Entre elas, o impacto negativo na competição por preço, para prover o serviço mais barato possível, afetando a receita dos usuários prestadores, o que consequentemente os obriga a trabalhar mais horas para garantir a receita que teriam há dois anos.
+      Assim indicado por Ortega (2017), há uma lei que regulamenta o transporte remunerado privado e que prevê a aplicação e recolhimento dos impostos e seguros necessários para a circulação desse tipo de transporte nas cidades, porém, não há nenhuma diretriz que mencione os direitos trabalhistas para os usuários.
+      Mendes (2019) relata a encruzilhada em que a Uber, umas das maiores empresas de mobilidade compartilhada, encontra-se economicamente. A empresa, que até então não obteve lucro, registrou um prejuízo de US$ 3 bilhões em 2018 e embasamento para a abertura de capital em 2019. Entretanto, na consolidação de riscos da empresa, apontou problemas trabalhistas devido à falta de vínculo formal com os motoristas e a falta de legislação em determinados países.
+      Valente (2019) aponta que, até março de 2019, a justiça paulista apontava 622 ações relacionadas a indenizações por danos morais da empresa Uber, totalizando mais de R$ 80 milhões. Como principais causas identifica: danos morais (25%); obrigação de fazer/não fazer (13%); e perdas e danos (13%).
+2.5 ESTRATÉGIAS DE RESPOSTA DAS EMPRESAS TRADICIONAIS DE MOBILIDADE URBANA
+      Estratégia deriva do termo grego strategia, que significa manobra, método ou plano, usado para alcançar um objetivo específico. Inicialmente relacionada com termos de guerra, passou a ser utilizada em vertentes militares, econômicas, psicológicas, políticas e organizacionais. Na Segunda Guerra Mundial, a tecnologia mudou as estratégias militares e também, os tipos e tamanhos das guerras.  Segundo Porter (1996), “Estratégia é a criação de uma posição única, valiosa, envolvendo um conjunto diferente de atividades”. O planejamento estratégico nas organizações é utilizado para melhorar a produtividade e os resultados da empresa, criando oportunidades que fomentem o crescimento e a rentabilidade da empresa, gerando dessa forma, vantagem competitiva ante os concorrentes.
+      Chandler (1962) menciona que a utilização completa dos recursos produtivos (naturais, humanos, materiais) é uma maneira de exercer uma vantagem competitiva e um controle estratégico, porém, ela deve ocorrer na mesma velocidade em que as mudanças do ambiente ocorrem, podendo assim, prever as necessidades de demanda do ecossistema e as forças que agem sobre ele. Segundo ele, as forças competitivas, ao serem mapeadas de forma estratégica, moldam a estrutura da organização e determinam o ambiente de competição, possibilitando alterar o posicionamento competitivo e, por consequência, alterar novamente a estratégia.
+      Conforme indicado por Silva (2019), a economia compartilhada provocou um rompimento na economia tradicional, forçando as empresas a agregarem funções lean nos processos, alavancar a eficiência e a criar outros tipos de valores frente à concorrência. 
+      De acordo com Haydin (2018), estima-se que, em 2021, 6 milhões de americanos estejam cadastrados em aplicativos de mobilidade vinculados à economia compartilhada. Os principais motivos destacados são: o aumento rápido da urbanização, os problemas identificados com transportes públicos, a preocupação das novas gerações com a saúde do planeta e, a quebra de paradigmas no mercado automotivo, o que inclui os avanços tecnológicos dos carros auto dirigíveis e mais seguros. 
+      Haydin (2018) identifica que a principal opção para as montadoras é a transformação, a reorientação do modelo produtivo para uma opção vinculada à criação de propósito do produto, como a já utilizada pela empresa Tesla, empresa líder na criação de veículos sustentáveis.
+      Miller (2019) menciona o caso da Uber, que apresenta exemplos claros de como uma empresa é capaz de mudar um segmento tradicional. Apenas na cidade de Nova Iorque, a licença para ser proprietário de um táxi em 2015 custava o equivalente à 1 milhão de dólares. Atualmente, com 4,5 mais Uber’s que táxis na cidade, a licença caiu para aproximados 200 mil dólares. Em São Paulo, no ano de 2017 existiam 38 mil taxis e 50 mil Uber’s, o que caracterizava uma mudança drástica no modelo de mobilidade do paulistano (REDAÇÃO, 2017).
+      A própria Uber lançou em 2015 um sistema de leasing de veículos para os motoristas do seu aplicativo que, desde 2013, oferecia descontos, financiamentos e pagamentos facilitados por instituições financeiras (REDAÇÃO, 2015). 
+      Para Silva (2013), o cenário de manufatura nas indústrias automotivas parece estável para a próxima década, visto que a demanda do mercado vem se movimentando para a Ásia e o consumo em países como Brasil e Estados Unidos apresenta números consideráveis de reciclagens nos automóveis, onde a busca por novas tecnologias vem influenciando a demanda do consumidor.
+      Oliveira (2018) aponta que, como estratégia das locadoras de veículos, nota-se um investimento em novos nichos de mercado e o aumento do interesse em aluguéis de longo prazo. Entre 2016 e 2017, identificou-se um aumento de 12% na frota das locadoras no país. Isso devido, em grande parte, aos incentivos feitos por empresas de outros segmentos que já não identificam mais as vantagens de manter frotas próprias e da utilização de carros locados no setor de serviços.
+      Carvalho (2017) comenta que, como estratégia para a diminuição do impacto no setor automobilístico, algumas montadoras já oferecem o serviço de compartilhamento de carros no Brasil. A General Motors foi pioneira ao oferecer aos seus funcionários a oportunidade de compartilhar carros da empresa por períodos específicos, por meio do aplicativo Maven. O benefício está disponível em todas as cinco fábricas do país e no seu campo de provas. Em São Paulo, a Audi iniciou o programa Audi Share para seus funcionários, que possibilita o compartilhamento de alguns modelos (A3 Sedan, A4 Sedan, A6 Sedan, Q3 e TT Coupé) em determinadas regiões, com benefícios muito maiores aos oferecidos por locadoras comuns.
+      Conforme Silva (2013), outras empresas como Volkswagen, Mercedes-Benz, BMW, Citroen e Toyota também estão investindo em projetos de Car Sharing (compartilhamento de veículos) já utilizados no Japão, Europa e Estados Unidos. O programa consiste em alugar carros por horas, incluindo combustível, seguro e manutenção. Em São Paulo, a Mercedez-Benz iniciou em 2013 o projeto VanComigo, que visa o compartilhamento de veículos para eventos, shows, programas esportivos, etc. Neste caso, o usuário informa qual o evento pretende comparecer e reserva um assento no veículo que fará o percurso. 
+3. PROCEDIMENTOS METODOLÓGICOS
+      O trabalho foi desenvolvido utilizando uma pesquisa de caráter descritivo. Segundo Gil (1999), “têm como objetivo primordial a descrição das características de determinada população ou fenômeno ou estabelecimento de relações entre variáveis”. O objetivo deste, foi de entender como o avanço da economia compartilhada influencia os padrões de consumo da mobilidade na região metropolitana de São Paulo.
+      Esta pesquisa empregou os métodos quantitativo e qualitativo. Conforme a classificação de Richardson (1999), uma unidade de pesquisa pode ser formada por instituições privadas e públicas e/ou indivíduos. Ainda segundo o autor, a pesquisa quantitativa caracteriza-se pelo emprego da quantificação, por meio de técnicas estatísticas, independentemente do seu nível de complexidade. Quanto ao método qualitativo, diferencia-se do quantitativo, uma vez que não utiliza um instrumental estatístico como alicerce na análise de um problema, pois não há o intuito de mensurar categorias (RICHARDSON, 1999). Isto posto, foram feitas três entrevistas com especialistas de mobilidade urbana para, deste modo, identificar a percepção dessas empresas em relação à economia compartilhada, efetivando o caráter qualitativo do trabalho.
+      Opostamente, a estratégia quantitativa utiliza destas ferramentas estatísticas para o levantamento e a realização de tratativas dos dados coletados. Manuseando, deste modo, variáveis e hipóteses em sua interpretação. Sendo assim, foi realizado um questionário com os usuários de transporte a fim de cumprir o objetivo quantitativo da pesquisa, em que houveram 101 respondentes sem restrição à classe social, escolaridade ou faixa etária, mas com a delimitação pela área geográfica da região metropolitana de São Paulo.
+      Optou-se pela aplicação de um questionário visto que, para Tuckman (2002), este é considerado uma ferramenta para aquisição de dados à respeito das pessoas por meio de questionamentos e tomada de amostras de seu comportamento, e não pela observação. E quanto às entrevistas, são motivadas pelo foco que é dado a um tópico no qual se estabelece um roteiro direcionado aos objetivos desejados, como define Manzini (2003).
+      Os instrumentos de coleta de dados foram entrevistas semiestruturadas com perguntas abertas e fechadas aos especialistas e questionário com perguntas fechadas, disponibilizado pela internet, via Microsoft Forms.
+      Para a pesquisa quantitativa, realizada pelo questionário eletrônico, foram utilizadas medidas de tendência central. Já para a pesquisa de caráter qualitativo, realizada com especialistas, utilizou-se a análise de conteúdo com o intuito de compreender o significado dos dados coletados permitindo sua classificação e melhor entendimento baseado por Flick (2009), em que declara que esta abordagem “é um dos procedimentos clássicos para analisar o material textual, não importando qual a origem desse material”.
+4. ANÁLISE DO DADOS E RESULTADOS
+4.1 ANÁLISE DO QUESTIONÁRIO
+      A fim de alinhar os conhecimentos teóricos adquiridos, realizou-se questionário com 101 pessoas para estabelecer relações entre seus perfis e a forma como se deslocam pela cidade. Desta forma, a pesquisa foi elaborada para compreender o comportamento dos respondentes dados os seguintes aspectos: foram consideradas respostas válidas apenas as dos cidadãos da região metropolitana de São Paulo; foram analisados os deslocamentos ocorridos em função de três atividades principias: trabalho, estudo e lazer; foram analisadas as formas como os respondentes se deslocam para cada atividade proposta e o que os levam a recorrer a esse meio; os respondentes foram etariamente divididos de acordo com faixas juridicamente definidas: sendo jovens os respondentes de 12 a 29 anos de idade (conforme Estatuto da Juventude – Lei nº 12.852/13), idosos  os respondentes acima de 60 anos (conforme Estatuto do Idoso – Lei nº 10.741/03) e por exclusão, adultos na idade entre 30 e 59 anos; as faixas de rendas foram estipuladas conforme definição atribuída pelo IBGE em 2017 que baseia-se na quantidade de Salários Mínimos (SM): sendo Classe E até 2 SM (até R$1.874,00), Classe D de 2 a 4 SM (de R$1.874,00 a R$3.748,00), Classe C de 4 a 10 SM (de R$3.748,00 a R$9.370,00), Classe B de 10 a 20 SM (de R$9.370,00 a R$18.740,00) e Classe A acima de 20 SM (R$18.740,01 ou mais).
+      Incialmente, nota-se que dos 101 respondentes, 96 são válidos de acordo com a restrição geográfica, dos quais 80% são residentes de São Paulo, 6% do ABC Paulista e 5% de Taboão da Serra. Quando analisada apenas a cidade de São Paulo, observa-se predominância na região Sul, com 56% dos respondentes.
+      No que diz respeito à faixa etária, a maior parte dos respondentes são jovens (66,3%), seguidos dos adultos (32,7%) e idosos (1%). Já em relação ao gênero, nota-se baixa diferença entre os entrevistados femininos e masculinos, sendo respectivamente 53,5% e 46,5%.
+      Para entender o perfil da amostra, questionou-se também a renda familiar e o estado civil. No primeiro quesito, verifica-se predominância da Classe C com 41,6% dos respondentes, seguido das Classes B e D, com 22,8% e 19,8 respectivamente. Em relação ao segundo quesito, nota-se hegemonia dos respondentes solteiros com 71,3%.
+      Um fator importante para o entendimento do comportamento da amostra é o fato dos respondentes terem ou não veículo próprio. Esta informação tem como objetivo validar determinados comportamentos na mobilidade dos respondentes, pois presume-se que os participantes da pesquisa que os possuem, tendem a se deslocar desta forma. Portanto, ao serem questionados sobre possuírem ou não veículos, observa-se que 45,8% dos entrevistados possuem, dos quais 54,5% correspondem ao público Feminino enquanto 45,5% ao Masculino. Nota-se também que desta parcela da amostra, 52,3% declara-se solteiro, 63,6% possui Ensino Superior Completo, há certo equilíbrio entre o público Jovem e Adulto (47,7% e 50% respectivamente) e destaca-se que metade pertence à Classe C. 
+      De modo complementar, da parcela dos entrevistados que não possuem veículo próprio, observa-se igualdade entre os entrevistados Masculinos e Femininos, predominância do público Solteiro (88,5%), pouco mais da metade possui Ensino Superior Incompleto (55,8%), preponderância do público Jovem com 84,6% dos respondentes e no sentido contrário ao que se observou na situação anterior, onde 50% dos entrevistados que possuíam veículo próprio pertenciam à Classe C, nesta parte da amostra nota-se melhor distribuição dos respondentes entre as classes, de modo que os pertencentes às Classes B e C somados, resultam em uma diferença de aproximadamente 4% em relação ao primeiro cenário. Esta avaliação dos dados resume-se no gráfico abaixo:
+   
+Gráfico 1 – População que possui ou não veículo
+Fonte: Autoria Própria
+      É correto afirmar que os respondentes que possuem carro próprio, dão preferência por utilizá-lo ao se deslocar. A análise dos dados da pesquisa demonstra que 57,9% dos entrevistados que têm carro, os utilizam para se deslocar ao trabalho, bem como 78% para atividades voltadas ao lazer.
+      Em contrapartida, ao analisar os entrevistados que não possuem veículo próprio, dividem-se igualmente entre os que gostariam de adquiri-lo e os não gostariam. Aos respondentes que gostariam de adquirir veículos, foi questionado seu nível de concordância para alguns atributos que contribuem para esse desejo. Deste modo, observa-se os seguintes resultados:
+Gráfico 2 - Motivos para Adquirir um Veículo (%)
+Fonte: Autoria Própria
+       
+      Nota-se que os fatores Segurança, Conforto, Gosto por dirigir e Superlotação do Transportes Públicos são os que apresentam maiores níveis de concordância por parte dos respondentes. Verifica-se que dos que discordam parcial/plenamente de não possuir fácil acesso aos transportes públicos, 89% concordam parcial/plenamente com a superlotação dos transportes públicos. Além disso, o fator Conforto é de concordância de 100% dos entrevistados.
+      Destaca-se que o nível de renda familiar difere a forma como o veículo é visto. Dos respondentes pertencentes a classe A, 100% discorda parcial/plenamente que o veículo seja um investimento, enquanto 100% dos pertencentes a classe E o consideram. Isso provavelmente se dá pois a população de maior renda tende a ter uma visão de longo prazo e portanto percebem a desvalorização do veículo pelo tempo como um ponto negativo, enquanto a população de menor renda tende a ser mais imediatista, visando o curto prazo, enxergando o carro como forma de resolver seus problemas de deslocamento presentes, sem considerar a situação futura.
+      Observa-se também que dos respondentes que moram na cidade de São Paulo, 77,3% não veem a dificuldade de acesso aos transportes públicos como fator determinante para a aquisição de um veículo. Em contrapartida, dos que não residem na cidade de São Paulo, 75% concorda que o difícil acesso a estes, os motivariam a comprar um carro. Presume-se que isto ocorra pois a malha de transporte da capital é maior em quantidade de linhas e meios de se deslocar, alcançando maiores distâncias, enquanto nas cidades vizinhas, esta malha seja reduzida em tamanho e alcance justificando a necessidade de um veículo próprio.
+      Aos respondentes que não gostariam de adquirir veículos, foi questionado seu nível de concordância para alguns atributos que contribuem para esse desejo. Observa-se os seguintes resultados:
+Gráfico 3 - Motivos para não adquirir um Veículo (%)
+Fonte: Autoria Própria
+      Para esta amostra da população, os fatores de maior importância para a não aquisição de um veículo são custos de aquisição/manutenção, trânsito e estresses atrelados ao veículo.
+      Verifica-se que a segurança imposta pelo veículo é maior para a parcela masculina. Apenas 8% dos homens concordam que não se sentiriam seguro, enquanto para as mulheres este número chega a 36%. Isto pode estar atrelado aos altos índices de assédio sofridos pelas mulheres em transportes públicos/privados, conforme indica levantamento do Instituto Patrícia Galvão (2019).
+      Após determinado o perfil dos respondentes da pesquisa, questionou-se de maneira mais aprofundada sobre seu comportamento ao se deslocar em relação a três situações distintas. São elas: Deslocamento para o trabalho; Deslocamento para estudos; Deslocamento à lazer. Em seguida, perguntou-se qual o principal meio de transporte utilizado neste deslocamento e o que o motiva a essa escolha, utilizando como variáveis os critérios: Custo; Segurança; Conforto; Acessibilidade; Qualidade. Estes motivos foram utilizados para as três situações, como se verá mais à frente.
+      Inicialmente foram questionados se trabalham atualmente. Dos 96 respondentes válidos, 78 estão trabalhando. Nota-se que os principais meios de transporte utilizados no deslocamento para o trabalho são Carro Próprio, Metrô e Ônibus. Juntos representam mais da metade dos meios de transporte utilizados (61,4%). Em relação à parcela dos respondentes que se deslocam ao trabalho com carro próprio (29,5%), observa-se que com exceção ao custo, todos os demais critérios apresentaram mais de 50% de concordância. Destaca-se também que 43,5% dos deslocamentos com carro próprio tem tempo médio de até 20 minutos. Em contrapartida, 60% dos deslocamentos que ocorrem tanto com o Metrô quanto com o Ônibus têm tempo médio acima de uma hora. Isto indica que ao deslocar-se para o trabalho, os respondentes optam pelo carro se o trajeto for curto, e para transportes públicos se o trajeto for longo. Nota-se que para a Classe A, 100% discordam que o custo é um critério que o leva a escolher o veículo próprio como meio de transporte para o trabalho. Este mesmo critério cai para 18,2% de discordância quando analisado em relação à Classe C.
+      Em seguida, o questionário é direcionado aos respondentes que estão estudando. Mais uma vez, dos 96 respondentes válidos, 50 se enquadram neste requisito. O comportamento dos entrevistados que estão estudando é semelhante aos que trabalham, quando verificado os principais meios de transporte utilizados. Dão preferência para o metrô, seguido do ônibus e carro próprio com 44%, 18% e 16% respectivamente. Embora ambos sejam transportes públicos, vê-se significante diferença na avaliação dos critérios Conforto e Qualidade. Ao comparar o Conforto de ambos os meios de transporte, 31,8% dos respondentes concordam que este critério influencia em sua decisão para o Metrô, enquanto 22,2% para o ônibus. Já quanto à Qualidade, observa-se concordância de 50% e 22,2% respectivamente. De modo geral, percebe-se que o metrô tem maior aprovação por parte dos usuários se comparado ao Ônibus. É interessante mencionar que quando avaliado o critério Custo, 77,3% dos estudantes que utilizam metrô para se deslocar a unidade de ensino concordam que este fator é relevante para esta escolha, à medida que, para o Ônibus, apenas 55,6% demonstram mesma concordância. Contudo, o valor da passagem é igual para ambos os meios de transportes, oque sugere que outros critérios, como por exemplo o Conforto e a Qualidade supracitados, afetam a percepção de preço do usuário. Desta forma, se este não visualizam benefícios, seu entendimento sobre o valor da passagem pode ser afetado de forma negativa.
+      Por fim, os entrevistados foram questionados sobre como se deslocam quando se trata de atividades voltadas ao lazer. Para tanto, foram designadas nove atividades: Cinema/Teatro; Shopping; Parques; Museus; Restaurantes; Baladas/Bares/Festas; Shows; Eventos Esportivos; Atividades Físicas. Para cada atividade foram perguntadas as formas como os respondentes preferem se deslocar e o motivo pelo qual se deslocam desta maneira. As formas de deslocamento propostas foram: Bicicleta/Patinete de aplicativo; Carona; Carro Próprio; Carros de aplicativo; Transporte Público.
+      Como se viu nas situações anteriores, as opções Carro Próprio e Transporte Público se destacam entre as mais escolhidas, à medida que as opções Bicicleta/Patinete de aplicativos e Carona são pouco exploradas. Nota-se que estes últimos ainda têm baixa receptividade por parte dos usuários da região metropolitana. Contudo, para as atividades voltadas ao lazer, destaca-se a utilização de Carros de Aplicativo (99, Cabify, Lady Drive, Uber), sendo o segundo modal mais utilizado. Percebe-se maior frequência de utilização deste modelo para as atividades Baladas/Bares/Festas e Shows (69,8% e 65,6% dos respondentes respectivamente), provavelmente por estas estarem relacionadas ao consumo de bebidas alcoólicas. Ademais, este modelo de transporte se torna forma alternativa à falta de transportes públicos, que normalmente não circulam no horário que estes eventos costumam terminar. Os Transportes Públicos vêm em terceiro lugar como modal mais utilizado, sendo prioridade apenas para as atividades Museus e Eventos Esportivos. Isto se dá devido à proximidade destas atividades às estações de metrô/trem e pontos de ônibus. Este dado é justificado visto que 55,07% dos respondentes que vão a Museus e Eventos Esportivos de Transporte Público, justificam sua escolha pela Acessibilidade. Para as demais atividades, o veículo próprio é o mais escolhido. Para este modelo de transporte, quase 75% dos respondentes o preferem devido ao Conforto. Curiosamente, analisando os motivos que levam os usuários a escolherem determinado modo de deslocamento, os principais são Conforto e Acessibilidade enquanto Custo é apenas o terceiro e Qualidade é surpreendentemente o fator menos relevante.
+      A etapa seguinte do questionário foi destinada a entender a relação dos entrevistados com a utilização específica de carros de aplicativo (99, Cabify, Lady Drive, Uber) e os motivos que os fazem, ou não, utilizarem. Desta forma, dos 96 respondentes válidos, 89,6% declaram utilizar algum aplicativo de mobilidade. Destes, 34,9% utilizam uma vez por semana e 26,7% uma vez ao mês. Apenas 5,8% utiliza diariamente e o restante divide-se de duas a cinco utilizações semanais. Ainda sobre a parcela dos entrevistados que utilizam aplicativos de mobilidade, há uma boa avaliação sobre o modelo de deslocamento, que é curiosamente contraditório ao que se viu anteriormente nas respostas coletadas. Seus níveis de concordância com os critérios de escolha (Custo, Segurança, Conforto, Qualidade e Acessibilidade) foram, no pior resultado, acima de 65%. Embora bem avaliado pelos usuários, os carros de aplicativo destacaram-se poucas vezes como modelos de transporte mais escolhidos.
+      A última questão do questionário foi de texto livre e teve como intuito questionar os respondentes sobre que melhorias gostariam que fosse aplicada aos aplicativos de mobilidade (99, Cabify, Lady Drive, Uber). Observou-se que curiosamente a maioria dos relatos estão relacionados à segurança. Há relatos em que a sugestão de segurança é voltada para a qualificação do motorista, e em um caso mais delicado, a preocupação com o assédio. Esta constatação contradiz o que se notou anteriormente, quando questionados sobre os motivos que os faziam utilizar este tipo de transporte. Nesta questão, 71% dos respondentes concordaram que a Segurança é um motivo que os leva a utilizar os veículos de aplicativo. Portanto, considerando a avaliação positiva sobre segurança, a preocupação contraditória com este mesmo quesito, e o fato de esta modalidade de transporte ainda não ser tão explorada, presume-se que se este modelo de deslocamento transmitir mais segurança, o vale entre a boa avaliação e o aumento na utilização dos veículos de aplicativo se reduza.
+4.2 ANÁLISE DAS ENTREVISTAS
+      A fim de complementar a compreensão do tema mobilidade, foram realizadas entrevistas com profissionais e especialistas do segmento. Buscou-se entender como suas empresas são estruturadas e suas percepções sobre o avanço dos modelos de economia compartilhada voltadas à mobilidade. Ademais, procurou-se estabelecer relações entre o que foi relatado pelos entrevistados com o que foi observado no questionário.
+      Visto que não fora concedida autorização, os entrevistados e suas respectivas empresas não terão seus nomes mencionados nesta análise. Contudo, faz-se necessário demonstrar a capacidade destes de argumentar sobre o tema abordado. Portanto, foi esquematizada a tabela abaixo para caracterizá-los, definindo a forma como serão mencionados, tal qual suas atribuições profissionais.
+      
+Tabela - Perfil dos Entrevistados
+EntrevistadoAtribuiçõesData da Entrevista   Entrevistado 1Chefe de Relações Governamentais e Institucionais do Brasil de empresa de micromobilidade.27/09/2019   Entrevistado 2Responsável pelas áreas de Relacionamento com o Passageiro e Comunicação de empresa de Transporte Público.29/10/2019   Entrevistado 3Fundador de startup de mobilidade urbana. Docente de Instituição de Ensino Privado graduado no curso de Design, Mestrado em Educação, Arte e História da Cultura e Doutorado em Metodologia de Projetos 24/10/2019   Fonte: Autoria própria
+      
+      Como visto, suas posições no mercado da mobilidade são distintas e, portanto, presume-se que a visão de cada um reflita uma percepção única sobre o tema. Desta forma, é importante ressaltar que, em diversos momentos, seus pontos de vista serão conflitantes. Neste contexto, a análise das entrevistas ocorre conforme tópicos predefinidos que envolvem assuntos abordados pelos entrevistados no decorrer das perguntas a fim de agrupar os relatos e facilitar a abordagem. Os entrevistados 1 e 2 abordarão principalmente as suas respectivas empresas à medida que o entrevistado 3 atuará como elemento independente, mas que opina principalmente em relação à mobilidade urbana no âmbito da economia compartilhada que é, afinal, o foco deste estudo.
+      
+4.2.1 Segmentação
+      Neste tópico estão relacionadas as percepções dos entrevistados sobre como os clientes são segmentados. Acerca do assunto, o Entrevistado 1 diz:
+       
+[...] você sempre tem aí o problema de dar conta da primeira e da última milha. Estou falando de dois, três quilômetros que o cara tem que andar da casa dele até um ponto de ônibus, uma estação do metrô ou que ele precisa descer em uma estação do metrô, um ponto de ônibus, um terminal de ônibus e ir até o trabalho dele. [...] nosso público-alvo é aquele que não utiliza o carro ou que tem a consciência ou, de alguma maneira, pretende deixar de utilizar o carro, mas que não tem, seja perto do trabalho, seja perto da residência, um transporte de massa que faça com que ele consiga chegar na casa dele, no trabalho dele. [...] Então, eu estou muito mais preocupado em atingir aquela pessoa que tem um problema para chegar em alguns lugares do que, propriamente, um nível de renda ou um nível educacional.
+       
+      Percebe-se que há uma segmentação de clientes, mas que ocorre, primordialmente, em função de um déficit público de mobilidade e não por atributos dos indivíduos como faixa de renda ou nível educacional. Aborda também que o público-alvo é constituído pelas pessoas que não utilizam ou pretendem deixar de utilizar carros, demonstrando uma aposta na mudança do padrão de mobilidade por parte da população. Por fim, relata que este problema se dá nos pequenos trechos denominados por ele como “primeira e última milha”, onde supostamente atua sua empresa. 
+      O entrevistado 2, por sua vez, comenta que:
+       
+No transporte sobre trilhos e nos ônibus, que são realmente aí a maioria das viagens, o interesse do deslocamento para trabalho é o principal motivo para deslocamento. O trabalho é o principal motivo. Em segundo vem o estudo [...] na viagem nos dias úteis representa 78% [...] tem como interesse o deslocamento para o trabalho. Os demais se dividem aí entre o estudo e outras atividades. O lazer é muito pequeno ainda em relação ao volume de passageiros transportados.
+       
+      Assim como o Entrevistado 1, não define o público-alvo por atributos dos indivíduos. Para ele, as distinções dos usuários se dão com base nos motivos pelos quais se deslocam. Afirma ainda que o trabalho representa a maior parte dos deslocamentos feitos pela sua empresa, representando 78% destes. Em seguida, como motivos para deslocamento, estão os estudos. Conclui dizendo que atividades de lazer representam uma parcela muito pequena de deslocamentos considerando a quantidade de passageiros transportados.
+      
+      Por fim, o entrevistado 3 exprime: 
+
+[...] Então patinete e bicicleta, por exemplo, tem trabalhado nos dois platôs, o da Paulista e o da Faria Lima [...] basicamente é um modelo de deslocamento de centro [...] o Uber acho que tenta pegar uma oportunidade da baixa qualidade do transporte público e do excesso de trânsito, e a dificuldade de estacionamento [...] O transporte público, ainda mais a parte do trabalhador
+    
+      O Entrevistado 3, tal qual os anteriores, não define o público-alvo por características individuais. Identifica que cada um dos modais apresenta segmentações distintas. Seu relato contradiz o que fora exposto pelo Entrevistado 1, pois afirma que as empresas de bicicleta e patinete atuam exclusivamente nas regiões da Av. Paulista e Av. Faria Lima – grandes polos empresariais de São Paulo –, enquanto o primeiro entrevistado afirma ter preocupação em atender às primeiras e últimas milhas do usuário, dando a entender que sua empresa está presente em diversos pontos da cidade, conforme a necessidade de seus clientes. Neste cenário, as primeiras e últimas milhas seriam atendidas apenas para os moradores destas regiões mencionadas. Já em relação ao transporte público, valida o exposto pelo Entrevistado 2, quando este afirma que a maior parte de seus deslocamentos ocorrem em função do trabalho dos usuários. Correlacionando com o dado apresentado pelo Entrevistado 2, notou-se por meio do questionário que, dentre os respondentes que estão trabalhando, o transporte público é o mais utilizado para o deslocamento.
+4.2.2 Planejamento / Investimento Futuro
+      Os entrevistados foram questionados a respeito das perspectivas futuras que envolvam a mobilidade e, consequentemente, suas empresas. O objetivo era conhecer mais sobre o planejamento que estes desenvolveram para atender às demandas futuras. Sobre o tema, o Entrevistado 1 relata:
+       
+[...] a gente sabe é que você consegue aí ter uma curva de crescimento que acompanha uma demanda esperada, isso com certeza. Mas não, assim, tipo, daqui a dois anos o padrão vai ser completamente outro, não tem mais carro na rua, entendeu? [...] não estou em todas as capitais do Brasil ainda. Então, obviamente, a gente espera isso [...] Você teve dois mandatos do Lula, um mandato da Dilma, mais meio da Dilma de uma política progressista. Agora você tem o primeiro mandato do Bolsonaro que já é uma... provavelmente vai ter mais um ou dois, Dória, não importa quem venha, mas de um viés mais conservador. [...] se você não tem um orçamento público capaz de dar conta dessa infraestrutura [...]. Vai ficar só na Faria Lima quando a nossa solução poderia ser para a cidade toda. [...] é muito mais um risco voltado para preparação de infraestrutura das cidades para receber esses novos modais de micromobilidade do que qualquer outro tipo de risco de business.
+    
+      O Entrevistado 2, sobre isto, discorre:
+
+[...] Essa é uma estratégia muito mais de governo. Então eu não tenho essa informação de bate pronto [...] o aplicativo, ele está em desenvolvimento mesmo. A gente tem a meta de lançá-lo aí até janeiro [...] O objetivo é simples, oferecer informação sobre o transporte. E principalmente, mais um canal de relacionamento. A ideia é que a gente compartilhe as situações da viagem dos passageiros ao longo de todo o percurso [...] a ideia é que a gente possa interagir de maneira mais rápida e oferecer informação para a tomada de decisão no deslocamento.
+       
+      O Entrevistado 3, finalmente, profere a respeito deste tema:
+
+[...] se a gente for falar do governo, acho que tem a ver com o plano diretor da cidade [...] E aí um plano de mobilidade um pouco dita ou trabalha com investimento de infraestrutura que vai ser feito. [...] E as empresas de transporte público ou as empresas de transporte privado, ou seja, mobilidade ativa ou compartilhada, eu acho que segue um pouco esse caminho. [...] encontrar buracos na cidade onde tem gente para pagar e que não está sendo assistido. [...] Acho que precisa de um investimento em transporte ativo, a gente precisa ter melhores ciclovias, ter mais apoio para a mobilidade de bicicleta.
+      
+      A dependência do Sistema Público é um ponto no qual os três entrevistados concordam. A estratégia a ser traçada pelo Governo é a chave para a prospecção das empresas, de modo que a expansão destas está atrelada ao investimento público em ações que corroborem com este modelo de negócio, como o aumento da malha cicloviária e investimentos em transportes públicos. 
+      No entanto, o Entrevistado 1 demonstra o interesse de expansão da atividade da empresa para novas capitais à medida que o Entrevistado 2 divulga o desenvolvimento de um aplicativo que permita ao usuário estar informado durante o percurso, auxiliando em sua tomada de decisão de deslocamento e funcionando também como novo canal de relacionamento.
+      
+4.2.3 Estratégias de Resposta
+      Pelo fato do objeto de estudo desta pesquisa ser o surgimento do modelo de mobilidade dentro da economia compartilhada, neste tópico será abordada apenas a visão do segundo entrevistado, bem como sua percepção a este novo modal, uma vez que este faz parte de uma empresa tradicional do setor.
+      Quando perguntado sobre o assunto, o Entrevistado 1 diz não identificar estratégias de resposta a seu surgimento por parte destas empresas. Embora implícito, isso se dá pois, conforme exposto anteriormente, o modelo de mobilidade oferecido por sua empresa atua de forma complementar aos demais, atendendo principalmente à primeira e última milha. Esta constatação é posteriormente validada pelo relato do Entrevistado 2 que, como infracitado, percebe pequeno impacto:
+      
+Como eu disse, na [empresa 2] o impacto foi pequeno. Mas a melhor estratégia que a gente possa adotar numa situação de mudança de comportamento do deslocamento dos passageiros, é oferecer serviço de qualidade. Quando você tem a qualidade e principalmente, a regularidade, você acaba fidelizando [...]. Nós temos aí em várias estações da [empresa 2] tem bicicletários e as pessoas tem usado a primeira perna da viagem e a última, no caso o retorno para casa, a bicicleta.
+      
+      Assim mencionado, embora não sinta impacto destes novos entrantes, o Entrevistado 2 propõe estratégia com ênfase na qualidade no caso de mudança futura no comportamento dos usuários. Destaca-se em seu relato a existência de bicicletários nas estações da empresa podendo, de forma indireta, agir como desestímulo à utilização das bicicletas de empresas de micromobilidade para o uso de bicicletas próprias. Observa-se, inclusive, o emprego do termo “primeira e última perna da viagem”, relacionando-se ao termo “primeira e última milha” utilizado pelo primeiro entrevistado.
+      
+4.2.4  Impacto na Economia
+      Neste tópico, será levantada a atuação das empresas de economia colaborativa e de que forma estas impactam na economia em si. 
+      Concernindo este assunto, o Entrevistado 1 aborda:
+    
+É basicamente um... são terceiros. Então, assim, eu perdi o meu emprego, ao invés de fazer Uber ou 99 eu vou recolher patinete. [...] São as novas funções da economia. É isso. [...] A gente fez 10 milhões de corridas. [...] isso mostra que há um ano atrás, você não tinha 10 milhões de corridas, então você tem uma migração. E talvez o nosso dado singularmente seja muito restrito, mas quando você olha pesquisas maiores do tipo: "As pessoas estão comprando carro mais tarde, estão tirando carteira de motorista mais tarde". Por que é que elas estão fazendo isso? Porque elas estão utilizando outras maneiras, outros modais. [...]
+    
+      Já o Entrevistado 2 ressalta:
+       
+A [EMPRESA 2] talvez tenha sido dos grandes operadores a que sofreu o menor impacto[...]. Entretanto, por exemplo, metrô e ônibus, sim. Esse o impacto nós acreditamos ter sido um pouco maior. Já existem estudos que mostram que pelo menos de 6-7% dos passageiros acabaram adotando alguns percursos alternativos e outros tipos de transporte em substituição ao deslocamento na cidade de São Paulo.
+       
+      O Entrevistado 3 declara então:
+
+Subemprego total. É tipo, precarização da mão de obra no último talo assim. É o capitalismo na maneira mais grosseira. Não sei o que é que vai acontecer, porque a tendência é isso daí se exacerbar e ficar pior, a gente está precarizando mais as condições de trabalho [...]. O cara não tem férias, ele trabalha jornadas de 14 horas, ele trabalha de segunda a segunda, ele não tem vale-refeição. [...] Então é um gap social, então, ah, ele está melhor do que ele estaria se ele não estivesse trabalhando? Não, acho que não. Porque ele está fodendo a vida dele, gastando joelho, ele está se expondo ao trânsito, está sendo esfolado, né? Ele está sendo esfolado. Para mim é meio que… talvez fosse melhor ele ficar em casa.
+       
+      Embora frisado pelo Entrevistado 1, as 10 milhões de corridas da empresa de microbilidade não refletiram em um grande impacto na escolha do meio de transporte dos passageiros: o questionário levantado demonstrou que, para as atividades voltadas ao lazer, os deslocamentos por meio de bicicletas ou patinetes resultaram em menos de 5% e, de acordo com os dados apresentados pelo Entrevistado 2, os transportes alternativos não foram significantes para uma mudança de comportamento ser percebida na atuação desta empresa. No entanto, para o metrô e ônibus, houve uma mudança de 6% a 7%. Ademais, o Entrevistado 1 alega que as empresas de economia compartilhada originaram “novas funções” na economia, como motoristas de aplicativos ou recolhedores de bicicletas e patinetes, sendo ocupadas principalmente – senão exclusivamente – por pessoas desempregadas. Em contrapartida, o Entrevistado 3 condena este novo modelo econômico pelas condições as quais os trabalhadores são submetidos. Complementa nomeando-o como “precarização da mão-de-obra” por privar o trabalhador de benefícios como férias e vale-refeição, além de propiciar longas jornadas de trabalho e ausência de folga e descanso. Enfim, reconhece a existência de um “gap social” e acredita que, dadas as condições estabelecidas, estas pessoas estariam melhores não trabalhando para essas corporações.
+      
+4.2.5 Proposta de Valor
+      Ao serem questionados sobre a criação de valor para os usuários, os entrevistados demonstraram perspectivas distintas de como apresentá-la aos clientes. 
+      Sobre este tema, o Entrevistado 1 disserta:
+
+Aqui, na verdade, você tem alguns valores bem etéreos, que perpassam muito mais o espírito dos fundadores do que propriamente uma decisão corporativa da empresa de ter valor. [...] A gente é uma empresa que propõe que as pessoas experienciem a cidade de uma maneira diferente [...] Eu não posso prescindir de segurança [...] acredito que uma cidade melhor é uma cidade onde você tem um convívio harmônico entre as diferentes formas de locomoção [...] quanto mais bicicleta, quanto mais patinetes, menos o carro vai ser o dono da cidade. E mais motorista, e o carrocrata, vai entender que ele precisa conviver com o pedestre, que ele precisa conviver com a bicicleta, com o patineteiro, com as pessoas que ocupam o espaço urbano.
+       
+      O Entrevistado 1 afirma que os valores propostos pela empresa se relacionam mais aos conceitos de seus fundadores do que propriamente por uma decisão corporativa. Além disso, a organização propõe um novo tipo de experiência do cliente para com a sua cidade, de maneira a estimular que os transportes de micromobilidade estejam mais presentes e que haja uma conscientização por parte dos usuários de carros a respeito das demais formas de deslocamento. 
+      O Entrevistado 2 comenta:
+       
+Transportar o maior volume de passageiros no menor tempo possível na maior distância a ser percorrida.[...] Hoje nós temos um modelo que integra os vários modais de transporte, como trilhos, ônibus, através do bilhete único que tem uma composição tarifária que beneficia o passageiro, entretanto, ela não agrega valor a arrecadação das empresas. Então isso é uma conta que cai no custo social do transporte público.
+       
+      Já para a Empresa 2, conforme relatado pelo segundo entrevistado, os valores estão relacionados à eficiência e qualidade. Menciona que o sistema de integração – desconto da tarifa por meio do cartão Bilhete Único ou Bom para a transferência entre os diferentes meios de transporte público – é um dificultador para o alcance deste objetivo, pois embora beneficie o passageiro, não contribui para a arrecadação monetária da empresa. 
+      O Entrevistado 3 identifica: 
+       
+Então tem benefícios sociais para quem usa os serviços, então mais qualidade de vida, não precisa se deslocar [...] O trabalhador só se fode. [...] de todo o jeito você está lançando mão de uma fragilidade ou de uma vulnerabilidade social deles, para construir um modelo de trabalho que é precário [...] São empresas que são muito mais focadas em gerar valor do que ter lucro. [...] Então eu acho que elas têm valor, porque tem muita gente usando. [...] as empresas não são sustentáveis, então elas não são capazes, elas ainda sobrevivem com recurso de investimento nessa esperança. [...] que elas vão ganhar uma relevância incrível e vão chegar em um outro resultado. Tem valor? Tem valor. Você compraria? Eu não. Por várias questões que eu acho que ainda não estão claras, uma delas é a questão social mesmo.
+       
+      O contraponto apresentado pelo Entrevistado 3 ratifica a ideia da criação de valor para o usuário dos aplicativos de mobilidade mas, em relação ao prestador de serviço, os ganhos não estão presentes, tal qual mencionado anteriormente pelas condições de trabalho que estes possuem. Menciona também que as estratégias dessas organizações estão mais focadas na criação de valor do que na obtenção de lucro, uma vez que as operações dessas são sustentadas por investimentos e, até o momento, não geraram lucro. 
+      
+4.2.6 Mudança no Padrão de Consumo
+      De forma a compreender como está estruturado o padrão de consumo do cidadão da região metropolitana de São Paulo, os entrevistados apresentaram de que forma estes percebem tal mudança.
+      O Entrevistado 1, em concordância ao que fora mencionado anteriormente, constata que está havendo mudança no padrão de consumo. Nota-se a fundamentação à sua opinião em trechos da entrevista, nos quais menciona que 10 milhões de deslocamentos que poderiam ser realizados de maneiras tradicionais foram feitos pelo modelo de micromobilidade da empresa e, quanto aos veículos próprios, um comportamento tardio tanto para a obtenção da carteira de habilitação quanto à compra de um. Apesar de reconhecer essa mudança, não forneceu detalhes sobre o futuro e apenas dissertou que a demanda será atendida conforme a curva de crescimento. 
+      Quanto ao Entrevistado 2, este constata que “[...] Vem mudando muito esse padrão, as pessoas têm procurado sim alternativas. E isso é uma situação que a gente já vem enxergando há algum tempo e vem procurando se adequar a isso.” Logo, em concordância ao que foi abordado anteriormente, embora não perceba o impacto das novas alternativas de transporte, reconhece a mudança de consumo por parte dos usuários. Como visto previamente, a adequação desta empresa quanto ao surgimento da economia compartilhada está associada à criação de um aplicativo para a integração dos meios de transporte público e presume-se, também, à existência de bicicletários nas estações para o estímulo do uso de bicicletas próprias. 
+      Por fim, o Entrevistado 3 destaca:
+
+[...] a economia compartilhada é uma tendência de uma parcela pequena da economia. É um processo que está em construção, as pessoas ainda são muito apegadas a ter, é uma outra realidade assim. Não é que isso já faz parte da sociedade paulistana, ao contrário. [...] Mas é uma tendência, acho que é um nicho de mercado, vai ter cada vez mais gente. Tem gente nascendo já dentro desse ecossistema. Então a tendência é que isso daí se amplie, e com isso a gente tenha menos consumo de bens, mais uso de bens, mais bem-estar com menos necessidade de produto, que eu acho que é um pouco essa tendência em relação à sustentabilidade também.
+
+      Este diz que a mudança de comportamento é somente perceptível em uma parcela pequena da sociedade e esta constatação é corroborada pelo questionário. Para as finalidades de trabalho e estudo, os aplicativos de mobilidade compartilhada  representam apenas 2,6% e 4%, respectivamente. Considerando a finalidade lazer, estes chegam a 32,1%. Assim como abordado antecedentemente pelo Entrevistado 2, as viagens motivadas pelo lazer para a Empresa 2 são poucas, fato visível também nos resultados da pesquisa realizada, que indica que a escolha dos meios de transporte alternativos supera a de transporte público. 
+      Complementa da seguinte forma:
+       
+Talvez uns 20 anos, eu acho. Porque é quando quem tem hoje 20, talvez vá ter 40 e estar na metade da sua vida física e profissional, então a gente tem uma mudança geracional significativa. Talvez um pouco mais ainda. Talvez uns 30, porque aí tem uma massa… mas com 20 talvez já tenha a massa crítica suficiente para contaminar quem é mais velho e já vive em uma outra realidade.
+
+      Como exposto, acredita que essa mudança poderá ser concretizada daqui 20 anos, motivada pela existência de pessoas que viveram a criação do modelo de economia compartilhada aliadas àquelas que nasceram com este já implementado.
+5. CONCLUSÃO
+      Com o intuito de responder ao problema de pesquisa e aos objetivos do trabalho, foram feitas pesquisas com usuários de meios de transporte residentes da região metropolitana de São Paulo e entrevistas com profissionais da área de mobilidade urbana. 
+      Notou-se que, no setor de mobilidade urbana, não há segmentação do perfil dos usuários por aspectos pessoais, econômicos e sociais. Ao analisar as entrevistas e, com base nos resultados da pesquisa, verificou-se que as finalidades de deslocamento são as principais formas de distinção dos passageiros. Diante disso, constatou-se que os modelos de mobilidade da economia compartilhada não são o principal meio de transporte escolhido quando a finalidade é trabalho e estudo. Mesmo para o lazer, em que a participação foi mais significativa, lideraram as escolhas em apenas duas atividades (baladas/bares/festas e shows). Apesar do cenário apresentado, ao serem questionados sobre a utilização destes aplicativos de mobilidade, 89,6% dos respondentes afirmou fazê-lo. Isto sugere que, embora os aplicativos de mobilidade não sejam o principal meio de deslocamento, atuam de forma complementar no trajeto, conforme indicado pelas entrevistas, ou de acordo com a ocasião, tal qual abordado previamente.
+      Quando relacionada aos impactos econômicos e sociais, constatou-se que existem relações de curto e longo prazo, em que a economia compartilhada contribui na geração de empregos informais e diminuição da parcela da população sem fonte de renda mensal. No entanto, como vertente social, não estabelece um vínculo que permita aos contratados usufruírem de direitos trabalhistas historicamente conquistados. De acordo com as pesquisas expostas no referencial teórico e dados apresentados nas entrevistas, apontou-se o usufruto de uma vulnerabilidade social na construção de um modelo de negócio imediatista que não promove um desenvolvimento sustentável, mas sim precário.  
+      Tratando-se do caráter ambiental, percebeu-se que existe uma diminuição na emissão de resíduos nos trajetos correspondentes à micromobilidade, por esta não ser poluente. Além disso, ao deixar de usar seu carro para transitar com um veículo por aplicativo, presume-se que há um veículo a menos circulando. Porém, como abordado na pesquisa, aproximadamente 7% dos usuários de metrô e ônibus (meios de transporte de alta capacidade) deixaram de utilizá-los para fazer uso de transportes alternativos, sendo um deles os carros compartilhados (meios de transporte de menor capacidade), aumentando a circulação de veículos poluentes. 
+      Economicamente, notou-se o início de uma migração da forma como os veículos são comercializados, partindo da produção de bens para prestação de serviços. Algumas empresas tradicionais do setor automotivo, ao perceberem a tendência do consumo colaborativo, adotaram estratégias para amenizar o impacto e, gradualmente, testar esse novo modelo de negócio dentro das próprias organizações. Como observado no decorrer desse estudo, montadoras estão fornecendo o serviço de aluguel e compartilhamento de veículos como forma de adaptação a este novo movimento. Da ótica do transporte público, mesmo sentindo pouco efeito desse modelo, em casos de mudanças significativas, ofereceriam um serviço de maior qualidade para o passageiro, investindo no aumento da malha e em tecnologias integradoras. Julga-se que essa tática organizacional seria assertiva, dado que, como fora constatado na pesquisa, os quesitos ligados à qualidade são prezados pelos respondentes.
+      Assim sendo, apurou-se que ambos os modelos de mobilidade (transporte público e economia compartilhada) apresentam déficits financeiros. No primeiro, nota-se uma dependência de investimento do governo, intensificada pelo gap de arrecadação ocasionado pelo sistema de integração oferecido aos passageiros. Já no segundo, observa-se uma aposta em um modelo de negócio que ainda não gerou lucro, amparando-se em investimentos terceiros para manter a operação na expectativa de, um dia, reverter esse cenário. Por parte dos usuários, verifica-se um movimento embrionário em direção à mudança de comportamento no uso da mobilidade. Estes ainda dão preferência aos modais tradicionais – incluindo veículo próprio -, podendo retardar a perspectiva destas novas empresas de economia compartilhada. Dada a expansão vagarosa do movimento, a carência de regulamentações dos empregos oferecidos pela mobilidade colaborativa torna-se trivial. Entretanto, para que esse modelo seja bem-sucedido, as reparações socias precisam ser realizadas de forma a fomentar os direitos trabalhistas destas novas funções do mercado. Caso não haja investimento na melhoria da qualidade do transporte público, pode haver uma aceleração na disseminação dos novos modais. 
+      Ao iniciar as pesquisas para a criação deste estudo, encontrou-se demasiada informação sobre os benefícios da economia compartilhada e sua influência positiva na sociedade. Tinha-se uma expectativa de que o resultado das pesquisas convergisse com as considerações finais deste. Todavia, após análises que visassem sustentabilidade e o desenvolvimento a longo prazo, deparou-se com implicações que vão além da rasa percepção pública, culminando em sequelas sociais ainda pouco debatidas. 
+      Considerando-se o pouco tempo em que os novos modelos de mobilidade da economia compartilhada fazem parte da rotina dos residentes da região, confirma-se que não existe hoje um cenário disruptivo dos padrões de consumo. Porém, estima-se que, considerando as respostas de questionários e entrevistas, haja uma definição nas próximas duas décadas, tornando assim este trabalho um embasamento para pesquisas futuras. 
+
+1) REFERÊNCIAS
+BANCO MUNDIAL. Vamos mesmo precisar de dois novos planetas? 2016. Disponível em: <http://www.worldbank.org/pt/news/feature/2016/08/09/objetivo-desarrollo-sostenible-ods-12-consumo>. Acesso em: 22 maio 2019.
+BATISTA, Aline. Uber quer trazer patinetes elétricas compartilhadas para o Brasil em 2019. Disponível em: <https://www.techtudo.com.br/noticias/2018/09/uber-quer-trazer-patinetes-eletricas-compartilhadas-para-o-brasil-em-2019.ghtml>. Acesso em: 21 maio 2019.
+CARVALHO, Isadora. Montadoras já oferecem compartilhamento de carros no Brasil. Disponível em: <https://quatrorodas.abril.com.br/noticias/montadoras-ja-oferecem-compartilhamento-de-carros-no-brasil/>. Acesso em: 25 maio 2019.
+CASTELLS, Manuel. A galáxia da Internet: reflexões sobre a Internet, os negócios e a sociedade. Rio de Janeiro: J. Zahar, 2003.
+CHANDLER, A. D. Jr. ,Strategy and Structure: Chapters in the History of the American Industry Enterprise, Cambridge –Massachusetts: M.I.T Press, 1962
+
+COUTINHO, Gustavo Leuzinger. A Era dos Smartphones: Um estudo Exploratório sobre o uso dos Smartphones no Brasil. 2014. 67 f. TCC (Graduação) - Curso de Comunicação Social, Habilitação em Publicidade e Propaganda., Universidade de Brasília - Unb, Brasília, 2014.
+DELOITTE. Global Mobile Consumer Survey 2017: O celular no dia a dia do brasileiro. Disponível em: <https://www2.deloitte.com/content/dam/Deloitte/br/Documents/technology-media-telecommunications/GMCS-Dinamico.pdf>. Acesso em: 10 maio 2018
+DICIONÁRIO ONLINE DE PORTUGUÊS. Significado de Transporte. Disponível em: <https://www.dicio.com.br/transporte/>. Acesso em: 04 abr. 2019.
+ESTADÃO CONTEÚDO. BICICLETAS ‘SEM ESTAÇÃO’ COMEÇAM A RODAR EM SÃO PAULO. 2018. Disponível em: <https://revistapegn.globo.com/Negocios/noticia/2018/08/bicicletas-sem-estacao-comecam-rodar-em-sao-paulo.html>. Acesso em: 02 maio 2019.
+ESTADÃO CONTEÚDO. Brasil tem 230 mi de smartphones em uso. Disponível em: <https://www.em.com.br/app/noticia/economia/2019/04/26/internas_economia,1049125/brasil-tem-230-mi-de-smartphones-em-uso.shtml>. Acesso em: 10 maio 2019. 
+FLICK, Uwe. Introdução à Pesquisa Qualitativa. 3. ed. Porto Alegre: Artmed, 2009. Tradução de: Joice Elias Costa.
+FONTANA, Raphael Luiz Macêdo et al. Teorias demográficas e o crescimento populacional no mundo. Cadernos de Graduação: Ciências Humanas e Sociais, Aracaju, v. 2, n. 3, p.113-124, mar. 2015. Disponível em: <https://periodicos.set.edu.br/index.php/cadernohumanas/article/view/1951/1209>. Acesso em: 01 maio 2019.
+GALVÃO, Agência Patrícia. 97% DAS MULHERES DISSERAM JÁ TER SIDO VÍTIMAS DE ASSÉDIO EM MEIOS DE TRANSPORTE. 2019. Disponível em: <https://agenciapatriciagalvao.org.br/violencia/violencia-sexual/97-das-mulheres-disseram-ja-ter-sido-vitimas-de-assedio-em-meios-de-transporte/>. Acesso em: 25 out. 2019.
+GIL, Antonio Carlos. Métodos e Técnicas de Pesquisa Social. 5. ed. São Paulo: Atlas, 1999.
+HAYDIN, Victor. How car sharing will impact US economy and what car makers can do about it. Disponível em: <https://www.automotive-iq.com/autonomous-drive/articles/how-car-sharing-will-impact-us-economy-and-what-car-makers-can-do-about-it>. Acesso em: 20 maio 2019.
+HELD, David; MCGREW, Anthony (Ed.). Prós e Contras da Globalização. Rio de Janeiro: Jorge Zahar Editor, 2001. 120 p.
+IBGE. Acesso à internet e à televisão e posse de telefone móvel celular para uso pessoal: 2017. Rio de Janeiro: Ibge, 2018. Disponível em: <https://biblioteca.ibge.gov.br/visualizacao/livros/liv101631_informativo.pdf>. Acesso em: 10 maio 2019.
+JALLOH, Mohamed S.. Uber: Advantages and Disadvantages. Disponível em: <https://www.investopedia.com/articles/investing/110614/taxi-industry-pros-cons-uber-and-other-ehail-apps.asp>. Acesso em: 12 set. 2019.
+KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. Marketing 4.0: Do Tradicional ao Digital. Rio de Janeiro – Rj: Sextante, 2017
+LEVINE, David M., STEPHAN, David F., KREHBIEL, Timothy C., BERENSON, Mark L. Estatística – Teoria e Aplicações. 5ª ed. Rio de Janeiro: LTC, 2008.
+LOPES, Marcel; PAULO, Paula Paiva. Viagens de ônibus como principal transporte diminuem em SP; Metrô e CPTM crescem, diz pesquisa. Tv Globo e G1 Sp. São Paulo, p. 1-1. 12 dez. 2018. Disponível em: <https://g1.globo.com/sp/sao-paulo/noticia/2018/12/12/viagens-de-onibus-como-principal-transporte-diminuem-em-sp-metro-e-cptm-crescem-diz-pesquisa.ghtml>. Acesso em: 11 set. 2019.
+LOVELOCK, Christopher; WIRTZ, Jochen; HEMZO, Miguel Angelo. Marketing de Serviços: Pessoas, Tecnologias e Estratégia. 7. ed. São Paulo: Pearson Prentice Hall, 2011.
+LUNDEN, Ingrid. Uber sells its Xchange Leasing portfolio to car leasing startup Fair. Disponível em: <https://techcrunch.com/2018/01/30/uber-sells-its-xchange-leasing-portfolio-to-car-leasing-startup-fair/>. Acesso em: 20 maio 2019.
+MANZINI, E. J. Considerações sobre a elaboração de roteiro para entrevista semiestruturada.In: MARQUEZINE, M. C.; ALMEIDA, M. A.; OMOTE; S. (Org.). Colóquios sobre pesquisa em Educação Especial. Londrina: Eduel, 2003. p.11-25.
+MENDES, Jaqueline. Uber não dá lucro e tem futuro em xeque. Disponível em: <https://www.em.com.br/app/noticia/economia/2019/04/22/internas_economia,1047877/uber-nao-da-lucro-e-tem-futuro-em-xeque.shtml>. Acesso em: 12 set. 2019.
+MILLER, Derek. What Is the Sharing Economy (and How Is it Changing Industries)? Disponível em: <https://www.thebalancesmb.com/the-sharing-economy-and-how-it-changes-industries-4172234>. Acesso em: 02 jun. 2019.
+OLIVEIRA DA SILVA, Maria Beatriz. OBSOLESCÊNCIA PROGRAMADA E TEORIA DO DECRESCIMENTO VERSUS DIREITO AO DESENVOLVIMENTO E AO CONSUMO (SUSTENTÁVEIS).Veredas do Direito: Direito Ambiental e Desenvolvimento Sustentável, Belo Horizonte, v. 9, n. 17, p. 181, dez. 2012. ISSN 21798699. Disponível em: <http://domhelder.edu.br/revista/index.php/veredas/article/view/252>. Acesso em: 01 maio 2019.
+ORTEGA, Flávia Teixeira. Lei 13.640/2018(Lei do Uber): regulamenta o transporte remunerado privado individual de passageiros. Disponível em: <https://draflaviaortega.jusbrasil.com.br/noticias/561305476/lei-13640-2018-lei-do-uber-regulamenta-o-transporte-remunerado-privado-individual-de-passageiros>. Acesso em: 12 set. 2019.
+PESSANHA, Maure. Startups de mobilidade geram impacto social, como o Uber da "quebrada". Disponível em: <https://pme.estadao.com.br/blogs/blog-do-empreendedor/startups-de-mobilidade-geram-impacto-social-como-o-uber-da-quebrada/>. Acesso em: 12 set. 2019.
+PORTER, M.E. What is Strategy? Harvard Business Review, v. 74, n. 6, p. 61-78, Nov./Dec. 1996. – Disponível na Biblioteca Online
+REDAÇÃO (Ed.). MEIOS DE TRANSPORTE: Evolução dos Transportes. Disponível em: <http://meios-de-transporte.info/evolucao-dos-transportes.html>. Acesso em: 11 set. 2019.
+REDAÇÃO, Grupo. Montadoras tentam se reinventar para enfrentar queda na venda de carros na Alemanha.Disponível em: <https://www.blogdaslocadoras.com.br/categoria-carros/noticias-de-carros/montadoras-tentam-se-reinventar-para-enfrentar-queda-na-venda-de-carros-na-alemanha.html>>. Acesso em: 02 jun. 2019.
+REDAÇÃO, Grupo. Número de carros de apps supera o de táxis em SP, revela secretário de Doria. Disponível em: <https://www1.folha.uol.com.br/cotidiano/2017/02/1855880-numero-de-carros-do-uber-supera-o-de-taxistas-em-sp-diz-secretario-de-doria.shtml>. Acesso em: 02 jun. 2019.
+REDAÇÃO, Grupo. Uber lança sistema de “aluguel” de veículos para seus motoristas. Disponível em: <https://canaltech.com.br/mercado/uber-lanca-sistema-de-aluguel-de-veiculos-para-seus-motoristas-46307/>. Acesso em: 21 maio 2019
+REDE NOSSA SÃO PAULO. VIVER EM SÃO PAULO: MOBILIDADE URBANA NA CIDADE. 2018. IBOPE inteligência. Disponível em: <http://www.ibopeinteligencia.com/arquivos/JOB_18_0072_MOBILIDADE%20URBANA_OUTROS_TEMAS_completa.pdf>. Acesso em: 02 maio. 2019.
+RIBEIRO, Bárbara Maria Giaccom; MENDES, Carlos André Bulhões. Avaliação de parâmetros na estimativa da geração de resíduos sólidos urbanos. Revista Brasileira de Planejamento e Desenvolvimento, [s.l.], v. 7, n. 3, p.422-443, 20 ago. 2018. Universidade Tecnologica Federal do Parana (UTFPR). http://dx.doi.org/10.3895/rbpd.v7n3.8652. Disponível em: <https://periodicos.utfpr.edu.br/rbpd/article/view/8652>. Acesso em: 24 maio 2019.
+RICHARDSON, Roberto Jarry. Pesquisa social: métodos e técnicas. 3. ed. São Paulo: Atlas, 1999.
+RIFKIN, Jeremy (Ed.). The transformation from ownership to access. In: RIFKIN, Jeremy. The zero marginal cost society: the internet of things, the collaborative commons, and the eclipse of capitalism. New York: St. Martin's Press, 2014. Cap. 13. p. 225-254.
+SALOMÃO, Karin. As startups que vão fazer você desistir de ter o seu carro. Disponível em: <https://exame.abril.com.br/pme/as-startups-que-vao-fazer-voce-desistir-de-ter-o-seu-carro/>. Acesso em: 10 maio 2019.
+Secretaria Municipal de Transportes. Plano de Mobilidade de São Paulo. São Paulo: Prefeitura do Município de São Paulo, 2015.
+SILVA, Cleide. Mobilidade urbana vira assunto das montadoras. Disponível em: <https://www.mobilize.org.br/noticias/4820/mobilidade-urbana-vira-assunto-das-montadoras.html>. Acesso em: 24 maio 2019.
+SILVA, Lucas Frazão; MONTAGNER, Miguel; ROSELINO, José Eduardo (Ed.). O Taylorismo sob controle: o lugar das novas e velhas tecnologias na ordem industrial. Revista de Administração Mackenzie, São Paulo, v. 7, n. 1, p.136-156, 2006. Bimestral. Disponível em: <http://editorarevistas.mackenzie.br/index.php/RAM/article/view/86/86>. Acesso em: 17 maio 2019.
+SPC - SERVIÇO DE PROTEÇÃO AO CRÉDITO. Economia compartilhada deixa 89% de seus usuários satisfeitos, revela estudo da CNDL/SPC Brasil. 2018. Elaborada por Câmaras de Dirigentes Lojistas (CDL) e Serviço de Proteção ao Crédito (SPC Brasil). Disponível em: <https://www.spcbrasil.org.br/pesquisas/pesquisa/5090>. Acesso em: 25 maio 2019.
+SUNDARARAJAN, Arun (Ed.). The sharing economy: The end of employment and the rise of crowd-based capitalism. London: The Mit Press, 2016. 240 p.
+TUCKMAN, B. W. Manual de Investigação em Educação.2. ed. Fundação CalousteGulbenkian. Lisboa, 2002.
+UNITED NATIONS. Department Of Economic And Social Affairs - Population Division. The speed of urbanization around the world. 2018. Disponível em: <https://population.un.org/wup/Publications/Files/WUP2018-PopFacts_2018-1.pdf>. Acesso em: 01 maio 2019.
+UNITED NATIONS. Department Of Economic And Social Affairs - Population Division. The impact of population momentum on future population growth. 2017. Disponível em: <https://population.un.org/wpp/Publications/Files/PopFacts_2017-4_Population-Momentum.pdf>. Acesso em: 01 maio 2019.
+VALENTE, Fernanda. Indenização por dano moral lidera processos da Uber em São Paulo. Disponível em: <https://www.conjur.com.br/2019-mar-18/indenizacao-dano-moral-lidera-processos-uber-sao-paulo>. Acesso em: 12 set. 2019.
+VASCONCELLOS, E. Circular é Preciso, Viver não é preciso: A História do Trânsito na Cidade de São Paulo. São Paulo: Annablume, 1999.
+VASCONCELLOS, Eduardo Alcântara de; CARVALHO, Carlos Henrique Ribeiro de; PEREIRA, Rafael Henrique Moraes (Org.). Transporte e mobilidade urbana. Brasília: Instituto de Pesquisa Econômica Aplicada (ipea), 2011. 77 p. Disponível em: <www.econstor.eu/handle/10419/91298>. Acesso em: 11 abr. 2019.
+VIANNA, Guilherme Szczerbacki Besserman. Mobilidade urbana no Brasil: uma estimativa do produto perdido em trânsito. 2013. 49 f. Monografia (Especialização) - Curso de Economia, Instituto de Economia, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2013. Disponível em: <www.ie.ufrj.br/images/gema/Gema_Monografias/Monografia_Versao_Final_Guilherme_Vianna.pdf>. Acesso em: 20 abr. 2019.
+VIEIRA, Agostinho. Uma questão de escolha. 2013. 1 p. Disponível em: <https://www.caieiraspress.com.br/economia.php?acao=ver&id=2838>. Acesso em: 17 abr. 2019.
+WAISELFISZ, Julio Jacobo. 2011. MAPA DA VIOLÊNCIA 2011. Ministério da Justiça. Acesso em: 3 abril 2019.
+WAISELFISZ, Julio Jacobo. 2013. MAPA DA VIOLÊNCIA 2013. Ministério da Justiça. Acesso em: 30 abril 2019.
+
+APÊNDICE
+
+Apêndice A – Questionário do perfil do consumidor de mobilidade urbana
+
+2) Idade
+
+3) Gênero
+a) Feminino
+b) Masculino 
+c) Outro
+d) Prefiro não dizer
+
+4) Estado civil
+a) Solteiro(a)
+b) Casado(a)
+c) Separado(a)
+d) Divorciado(a)
+e) Viúvo(a)
+
+5) Grau de escolaridade
+a) Sem instrução
+b) Fundamental incompleto
+c) Fundamental completo
+d) Médio incompleto
+e) Médio completo
+f) Superior incompleto
+g) Superior completo
+
+6) Renda familiar
+a) Até R$1.874,00
+b) De R$1.874,01 até R$3.748,00
+c) De R$3.748,01 até R$9.370,00
+d) De R$9.370,01 até R$18.740,00
+e) R$18.740,01 ou mais
+
+7) Você mora na cidade de São Paulo?
+a) Sim
+b) Não
+
+8) Qual município da região metropolitana de São Paulo você reside? (Disponível caso resposta da questão 6 seja “não”)
+a) Não resido na região metropolitana de São Paulo (Fim do questionário)
+b) Outra
+
+9) Em qual zona da cidade você reside?
+a) Centro
+b) Norte
+c) Sul
+d) Leste
+e) Oeste
+
+10) Possui veículo próprio?
+a) Sim
+b) Não
+
+11) Gostaria de adquirir um? (Disponível caso resposta da questão 9 seja “não”)
+a) Sim
+b) Não
+
+12) Por que você não adquiriria um veículo? (Disponível caso resposta da questão 10 seja “não”)
+        Discordo plenamente    Discordo parcialmente    Não concordo nem discordo    Concordo parcialmente    Concordo plenamente       Alto custo de aquisição/manutenção                                Alta emissão de gases poluentes                                Não me sentiria seguro(a)                                Não sei/gosto de dirigir                                Possuo fácil acesso ao transporte público                                Utilizo o carro da família                                Usaria o dinheiro para outras aquisições e/ou viagens                                Trânsito                                É muito estressante                            
+
+13) Por que você adquiriria um veículo? (Disponível caso resposta da questão 10 seja “sim”)
+        Discordo plenamente    Discordo parcialmente    Não concordo nem discordo    Concordo parcialmente    Concordo plenamente       Custo-benefício                                Conforto                                Segurança                                Gosto de dirigir                                Não possuo fácil acesso ao transporte público                                Utilizo o carro da família, mas gostaria de ter um                                Considero um investimento                                Fuga da superlotação do transporte público                               
+14) Está trabalhando atualmente?
+a) Sim
+b) Não
+
+15) Qual o tempo médio do trajeto para o trabalho? (disponível caso resposta da questão 13 seja “sim”)
+a) Até 20 minutos
+b) 21 a 40 minutos
+c) 41 minutos a 1 hora
+d) 1:01 hora a 1:20 hora
+e) 1:21 hora a 2 horas
+f) Acima de 2 horas
+
+16) Qual o principal meio de transporte utilizado no trajeto para o trabalho? (disponível caso resposta da questão 13 seja “sim”)
+a) Carro próprio
+b) Ônibus
+c) Metrô
+d) Trem
+e) Fretado
+f) Carona
+g) Bicicleta/patinete/skate/patins próprio
+h) Carros de aplicativo (99, Cabify, Lady Driver, Uber)
+i) Bicicleta/patinete de aplicativos (Grin, Yellow)
+
+17) Considerando o meio de transporte escolhido acima, qual seria o motivo da escolha? (disponível caso resposta da questão 13 seja “sim”)
+        Discordo plenamente    Discordo parcialmente    Não concordo nem discordo    Concordo parcialmente    Concordo plenamente       Custo                                Segurança                                Conforto                                Acessibilidade                                Qualidade                               
+18) Está estudando atualmente?
+a) Sim
+b) Não
+
+19) Qual o tempo médio do trajeto para a instituição de ensino? (disponível caso resposta da questão 17 seja “sim”)
+a) Até 20 minutos
+b) 21 a 40 minutos
+c) 41 minutos a 1 hora
+d) 1:01 hora a 1:20 hora
+e) 1:21 hora a 2 horas
+f) Acima de 2 horas
+
+20) Qual o principal meio de transporte utilizado no trajeto para a instituição de ensino? (disponível caso resposta da questão 17 seja “sim”)
+a) Carro próprio
+b) Ônibus
+c) Metrô
+d) Trem
+e) Fretado
+f) Carona
+g) Bicicleta/patinete/skate/patins próprio
+h) Carros de aplicativo (99, Cabify, Lady Driver, Uber)
+i) Bicicleta/patinete de aplicativos (Grin, Yellow)
+
+21) Considerando o meio de transporte escolhido acima, qual seria o motivo da escolha? (disponível caso resposta da questão 17 seja “sim”)
+        Discordo plenamente    Discordo parcialmente    Não concordo nem discordo    Concordo parcialmente    Concordo plenamente       Custo                                Segurança                                Conforto                                Acessibilidade                                Qualidade                               
+22) Qual o meio de transporte você escolheria para cada uma dessas atividades de lazer? 
+        Carro próprio    Transporte público    Carona    Carros de aplicativos (99, Cabify, Lady Driver, Uber)    Bicicleta/patinete de aplicativos (Grin, Yellow)    Não pratico essa atividade       Cinema/Teatro                                     Ir ao shopping                                     Parques                                     Museus                                     Restaurantes                                     Baladas/Bares/Festas                                     Shows                                     Eventos esportivos                                     Atividades físicas                                    
+23) Considerando o meio de transporte escolhido acima, qual seria o motivo da escolha? 
+        Custo    Segurança    Conforto    Acessibilidade    Qualidade    Não pratico essa atividade       Cinema/Teatro                                     Ir ao shopping                                     Parques                                     Museus                                     Restaurantes                                     Baladas/Bares/Festas                                     Shows                                     Eventos esportivos                                     Atividades físicas                                    
+24) Você utiliza algum aplicativo de mobilidade (99, Cabify, Grin, Lady Driver, Uber, Yellow)? 
+a) Sim
+b) Não
+25) Com qual frequência você utiliza esses aplicativos? (disponível caso resposta da questão 23 seja “sim”)
+a) Uma vez ao mês
+b) A cada duas semanas
+c) Uma vez por semana
+d) Até cinco vezes por semana
+e) Diariamente
+
+26) Qual a média de gastos diários com esse tipo de serviço? (disponível caso resposta da questão 23 seja “sim”)
+a) Até R$8,00
+b) R$8,01 a R$15,00
+c) R$15,01 a R$30,00
+d) R$30,01 a R$50,00
+e) R$50,01 a R$70,00
+f) Acima de R$70,00
+
+27) Por que utiliza esses aplicativos de mobilidade urbana? (disponível caso resposta da questão 23 seja “sim”)
+
+
+        Discordo plenamente    Discordo parcialmente    Não concordo nem discordo    Concordo parcialmente    Concordo plenamente       Custo                                Segurança                                Conforto                                Acessibilidade                                Qualidade                            
+28) Por que não utiliza esses aplicativos de mobilidade urbana? (disponível caso resposta da questão 23 seja “não”)
+        Discordo plenamente    Discordo parcialmente    Não concordo nem discordo    Concordo parcialmente    Concordo plenamente       Custo alto                                Falta de segurança                                Falta de conforto                                Pouca acessibilidade onde resido/frequento                                Qualidade baixa                            
+29) Quais melhorias você gostaria que fossem incorporadas aos aplicativos de mobilidade urbana?
+
+30) Gostaria de saber o resultado da nossa pesquisa? Se sim, pode deixar o e-mail no espaço abaixo.
+Apêndice B – Roteiro de entrevista para empresa de economia compartilhada
+
+1. Qual(is) o público(s) alvo da atividade da sua empresa? 
+2. Este público é segmentado de alguma forma?
+3. Como ocorre a comunicação com seus clientes? Ela ocorre de forma distinta de acordo com os segmentos a que pertencem?
+4. Quais formas de comunicação são mais efetivas para esse público?
+5. Que fatores são considerados essenciais para que haja bom relacionamento entre a empresa e os clientes?
+6. Qual o valor que a sua empresa propõe para o cliente? Acreditam que estas propostas são completamente alcançadas?
+7. O que é considerado um obstáculo no alcance desta proposta de valor?
+8. O que é essencial para o funcionamento do negócio? Existe uma alternativa no caso dessa essencialidade ser prejudicada? Qual?
+9. Como são estruturada as fontes de receita da empresa?
+10. Voces identificaram mudancas nos padrões de consumo na ultima década com relação a mobilidade urbana? Existe alguma projeção de mudança desses padrões no futuro?
+11. Você identifica alguma estratégia de reação/adaptação das empresas tradicionais para reverter o cenário futuro mencionado acima?
+12. Quais as estratégias de investimento e crescimento da sua empresa para as próximas 2 décadas? 
+13. Quais são os recursos estratégicos essenciais (de capital, de tecnologia, de recursos humanos, etc.) para o sucesso da empresa?
+14.  Você considera a Economia Compartilhada como resultado ou principal ofensor de uma mudança de comportamento da sociedade paulistana?
+15. Em que momento voces identificaram a Economia Compartilhada como uma oportunidade de negócio?
+16.  Quais oportunidades vocês identificam na melhoria dos serviços que alavanquem ou mantenham o crescimento da sua empresa?
+17. Quais riscos vocês identificam que podem afetar o sucesso da empresa no futuro?
+
+Apêndice C – Roteiro de entrevista para empresa de economia compartilhada
+
+1. Qual o principal meio de transporte público utilizado na região metropolitana de São Paulo?
+2. Como é segmentado o público que utiliza o transporte público na região metropolitana de São Paulo?
+3. Que fatores são considerados essenciais para o planejamento da malha de transportes públicos da região metropolitana?
+4. Quais as principais melhorias adotadas para atender mais e melhor o público da região metropolitana?
+5. O que é essencial para o funcionamento do negócio? Existe uma alternativa no caso dessa essencialidade ser prejudicada? Qual?
+6. Como o governo de São Paulo enxerga o aumento das alternativas de transporte?
+7. Vocês identificaram mudanças nos padrões de consumo de produto para serviços na última década com relação à mobilidade urbana? Existe alguma projeção de aumento desse cenário?
+8. Quais as estratégias de investimento e crescimento para as próximas 2 décadas? 
+9. Você considera a economia compartilhada como resultado ou principal ofensor de uma mudança de comportamento da sociedade paulistana?
+10. Você considera que existam ganhos sociais com o surgimento de empresas que prestam serviços alternativos de transporte na região metropolitana?
+11.  Vocês estão tomando alguma medida em relação aos meios de transporte alternativos apresentados pela economia compartilhada?
+   
+
+
+
+
+
+
+
+   4
+   
+   
+   
+   
